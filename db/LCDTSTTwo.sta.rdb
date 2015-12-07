@@ -1,0 +1,551 @@
+sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[975] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[975] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N29
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[974] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [975]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [974]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[974] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[974] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N17
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[973] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [974]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [973]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[973] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[973] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X65_Y35_N26
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [973]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N27
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [972]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[972] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N11
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[971] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [972]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [971]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[971] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[971] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N23
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[970] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [971]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [970]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[970] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[970] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N9
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[969] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [970]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [969]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[969] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[969] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N25
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[968] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [969]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [968]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[968] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[968] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N13
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[967] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [968]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [967]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[967] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[967] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X65_Y35_N6
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [967]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [966]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[966] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N21
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[965] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [966]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [965]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[965] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[965] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X66_Y35_N0
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [965]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N1
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [964]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[964] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X66_Y35_N30
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [964]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N31
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [963]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[963] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N3
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[962] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [963]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [962]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[962] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[962] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X66_Y35_N12
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [962]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N13
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [961]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[961] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X66_Y35_N22
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [961]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N23
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [960]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[960] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N27
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[959] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [960]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [959]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[959] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[959] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N25
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[958] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [959]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [958]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[958] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[958] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X66_Y35_N8
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [958]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N9
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [957]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[957] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N19
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[956] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [957]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [956]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[956] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[956] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y35_N29
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[955] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [956]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [955]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[955] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[955] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X65_Y35_N2
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [955]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X65_Y35_N3
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [954]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[954] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X75_Y35_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[953] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [954]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [953]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[953] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[953] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X75_Y35_N1
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[952] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [953]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [952]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[952] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[952] .power_up = "

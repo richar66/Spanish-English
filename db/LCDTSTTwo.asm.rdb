@@ -1,0 +1,12 @@
+;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[782] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X66_Y34_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[781] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [782]),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),

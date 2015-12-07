@@ -1,0 +1,22 @@
+{
+	"system" : {
+		"platform" : "windows64",
+		"os_name" : "Windows 7",
+		"os_version" : "6.2"
+	},
+	"error" : {
+		"error_message" : "is_new_trigger || ( !is_new_trigger && m_trigger_level == m_data_trigger->get_event_levels() )",
+		"source_file" : "/quartus/sld/sdr/sdr_tx_trigger_gen2.cpp",
+		"line" : "6300",
+		"stack_trace" : "\t0x7ff9ba547c91: (?commit@SDR_TX_TRIGGER_GEN2@@EEAA_NPEAVSDR_DATA_SIGNAL_SET@@_N@Z + 0x531)\n\t0x7ff9ba4f23ea: (?commit_instance_at@SDR_TX_SESSION@@AEAA_NH_N@Z + 0x29a)\n\t0x7ff9ba4f4774: (?commit_session@SDR_TX_SESSION@@QEAA_NXZ + 0xc4)\n\t0x7ff9ba4f4834: (?save_session@SDR_TX_SESSION@@QEAA_NPEBD@Z + 0x74)\n\t0x7ff9a985b0ef: (?save_document@SEDQ_TX_MANAGER@@QEAA_NPEBD@Z + 0xf2f)\n\t0x7ff9a986ac64: (?toggle_node@SEDQ_WIZARD@@QEAA_NH@Z + 0x724)\n\t0x7ff9c8f060cc: (?on_save_action@QUI_FRAME_WND@@UEAA_NXZ + 0xec)\n\t0x7ff9c8ef6015: (?save_modified@QUI_FRAME_WND@@UEAA_N_N@Z + 0xd5)\n\t0x7ff9a9801e25: (??1SEDQ_WAVEFORM_EXPORT_DATA@@QEAA@XZ + 0x1b5)\n\t0x7ff9c8ef61f8: (?save_all_in_list@QUI_FRAME_WND@@IEAA_NAEBV?$QList@PEAVQMdiSubWindow@@@@_N@Z + 0x98)\n\t0x7ff9c8ef9997: (?save_all_before_task@QUI_FRAME_WND@@QEAA_NXZ + 0xe7)\n\t0x7ff9c8f062ac: (?flow_starting_setup@QUI_FRAME_WND@@QEAA_NW4FSTR_FLOW_ENUM@@_N@Z + 0x5c)\n\t0x7ff9c8ee3ba1: (?start_flow@QUI_APP@@QEAA_NW4FSTR_FLOW_ENUM@@AEBV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@_N22@Z + 0x51)\n\t0x7ff9c8ef39d4: (?start_flow@QUI_FRAME_WND@@QEAA_NW4FSTR_FLOW_ENUM@@AEBV?$basic_string@DU?$char_traits@D@_Dinkum_std@@V?$MEM_STL_ALLOCATOR@D@@@_Dinkum_std@@_N22@Z + 0x44)\n\t0x7ff9a9c4dddc: (Nsmq_Unload + 0x18f6c)\n\t0x7ff9a9c507dc: (Nsmq_Unload + 0x1b96c)\n\t0x7ff9a9c53fb3: (Nsmq_Unload + 0x1f143)\n\t0x7ff9a9c5f3ca: (Nsmq_Unload + 0x2a55a)\n\t0x7ff9a9c63386: (Nsmq_Unload + 0x2e516)\n\t0x7ff9a9c63f74: (nlv_nsmq_create_frame_wnd + 0x94)\n\t0x7ff9c8ef1265: (?create_frame_wnd@QUI_FRAME_MGR@@IEAAPEAVQUI_FRAME_WND@@W4QUI_FW_STATE_ENUM@@PEAVQUI_FRAME_INFO@@_N@Z + 0x1d5)\n\t0x7ff9c8ef17d1: (?create_frame_wnd@QUI_FRAME_MGR@@IEAAPEAVQUI_FRAME_WND@@PEAVQUI_FRAME_INFO@@_N1@Z + 0x2c1)\n\t0x7ff9c8ef27da: (?create_new@QUI_FRAME_MGR@@QEAAXPEAVQUI_FRAME_INFO@@_N@Z + 0xfa)\n\t0x7ff9c8ef2994: (?create_new@QUI_FRAME_MGR@@QEAAXAEBU_GUID@@_N@Z + 0xd4)\n\t0x7ff9c8ef2e45: (?create_restored@QUI_FRAME_MGR@@QEAAPEAVQUI_FRAME_WND@@AEBU_GUID@@AEBVQString@@_NAEBVQByteArray@@3@Z + 0x255)\n\t0x7ff9c8f231bf: (?nlv_sm_viewer_action@QUI_TOOLS_MENU@@UEAAXXZ + 0x1f)\n\t 0x6803eb5a: (?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z + 0x53a)\n\t 0x65a2dd2f: (?activate@QAction@@QEAAXW4ActionEvent@1@@Z + 0xdf)\n\t 0x65dd3447: (?findIdForAction@QMenu@@AEBAHPEAVQAction@@@Z + 0x327)\n\t 0x65dd9c21: (?internalDelayedPopup@QMenu@@AEAAXXZ + 0x8c1)\n\t 0x65a8a164: (?event@QWidget@@MEAA_NPEAVQEvent@@@Z + 0xd4)\n\t 0x65dd9fb2: (?event@QMenu@@MEAA_NPEAVQEvent@@@Z + 0x2a2)\n\t 0x65a428f5: (?notify_helper@QApplicationPrivate@@QEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0xf5)\n\t 0x65a441ab: (?notify@QApplication@@UEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x70b)\n\t 0x6802a7c1: (?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x71)\n\t 0x65a4371c: (?sendMouseEvent@QApplicationPrivate@@SA_NPEAVQWidget@@PEAVQMouseEvent@@00PEAPEAV2@AEAV?$QPointer@VQWidget@@@@_N@Z + 0x1ec)\n\t 0x65aa12ba: (?winFocus@QApplication@@QEAAXPEAVQWidget@@_N@Z + 0x9da)\n\t 0x65aa3f4c: (?restoreOverrideCursor@QApplication@@SAXXZ + 0x93c)\n\t0x7ff9d8b7250c: (DispatchMessageW + 0x15c)\n\t0x7ff9d8b72366: (NotifyWinEvent + 0x236)\n\t 0x68052f69: (?processEvents@QEventDispatcherWin32@@UEAA_NV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z + 0x3b9)\n\t 0x65aa3564: (?translateTouchEvent@QApplicationPrivate@@QEAA_NAEBUtagMSG@@@Z + 0x884)\n\t 0x68029cf0: (?exec@QEventLoop@@QEAAHV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z + 0x230)\n\t 0x6802e5ff: (?exec@QCoreApplication@@SAHXZ + 0xdf)\n\t0x7ff66a92108e:\n\t0x7ff9d0779678: (?msg_exe_fini@@YAXXZ + 0x58)\n\t0x7ff9d077978c: (?msg_exe_fini@@YAXXZ + 0x16c)\n\t0x7ff9d08512c4: (??1MEM_INITIALIZER@@QEAA@XZ + 0x184)\n\t0x7ff9d077abe9: (?msg_exe_main@@YAHHPEAPEBDP6AHH0@Z@Z + 0x99)\n\t0x7ff66a921ab2:\n\t0x7ff66a9213de:\n\t0x7ff9d8a313d1: (BaseThreadInitThunk + 0x21)\n\t0x7ff9daff5453: (RtlUserThreadStart + 0x33)\n",
+		"subsystem" : "SDR",
+		"executable" : "quartus",
+		"comment" : "none"
+	},
+	"quartus" : {
+		"quartus_bits" : "64",
+		"version" : "14.0.0",
+		"build" : "200",
+		"edition" : "Web Edition"
+	}
+}

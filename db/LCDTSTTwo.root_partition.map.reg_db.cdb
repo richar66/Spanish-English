@@ -1,0 +1,3 @@
+ERI_XZ_EXTEND_SIGNIFICANT" "lcd_test.v(1339) " "Verilog HDL warning at lcd_test.v(1339): extended using \"x\" or \"z\"" {  } { { "../LCD TEST/lcd_test.v" "" { Text "D:/LCD TEST/lcd_test.v" 1339 0 0 } }  } 0 10273 "Verilog HDL warning at %1!s!: extended using \"x\" or \"z\"" 1 0 "Quartus II" 0 -1 1449448699582 ""}
+{ "Warning" "WVRFX_L3_VERI_XZ_EXTEND_SIGNIFICANT" "lcd_test.v(1386) " "Verilog HDL warning at lcd_test.v(1386): extended using \"x\" or \"z\"" {  } { { "../LCD TEST/lcd_test.v" "" { Text "D:/LCD TEST/lcd_test.v" 1386 0 0 } }  } 0 10273 "Verilog HDL warning at %1!s!: extended using \"x\" or \"z\"" 1 0 "Quartus II" 0 -1 1449448699582 ""}
+{ "Warning" "WV

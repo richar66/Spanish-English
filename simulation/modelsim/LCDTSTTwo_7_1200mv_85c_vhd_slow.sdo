@@ -1,0 +1,3579 @@
+   )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~17)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (3357:3357:3357) (3386:3386:3386))
+        (PORT datab (1753:1753:1753) (1803:1803:1803))
+        (PORT datac (1215:1215:1215) (1294:1294:1294))
+        (PORT datad (1785:1785:1785) (1831:1831:1831))
+        (IOPATH dataa combout (349:349:349) (353:353:353))
+        (IOPATH datab combout (423:423:423) (434:434:434))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~18)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1990:1990:1990) (2058:2058:2058))
+        (PORT datab (2892:2892:2892) (2927:2927:2927))
+        (PORT datac (1709:1709:1709) (1759:1759:1759))
+        (PORT datad (206:206:206) (229:229:229))
+        (IOPATH dataa combout (412:412:412) (428:428:428))
+        (IOPATH datab combout (402:402:402) (425:425:425))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~19)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (2995:2995:2995) (3062:3062:3062))
+        (PORT datab (1045:1045:1045) (1019:1019:1019))
+        (PORT datac (1490:1490:1490) (1566:1566:1566))
+        (PORT datad (425:425:425) (442:442:442))
+        (IOPATH dataa combout (358:358:358) (352:352:352))
+        (IOPATH datab combout (423:423:423) (434:434:434))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~20)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1540:1540:1540) (1609:1609:1609))
+        (PORT datab (234:234:234) (269:269:269))
+        (PORT datac (648:648:648) (649:649:649))
+        (PORT datad (1713:1713:1713) (1754:1754:1754))
+        (IOPATH dataa combout (391:391:391) (396:396:396))
+        (IOPATH datab combout (418:418:418) (425:425:425))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux40\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (994:994:994) (1097:1097:1097))
+        (PORT datab (1755:1755:1755) (1807:1807:1807))
+        (PORT datac (1164:1164:1164) (1233:1233:1233))
+        (PORT datad (882:882:882) (968:968:968))
+        (IOPATH dataa combout (417:417:417) (428:428:428))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~29)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (476:476:476) (491:491:491))
+        (PORT datab (3740:3740:3740) (3767:3767:3767))
+        (PORT datac (2958:2958:2958) (3019:3019:3019))
+        (PORT datad (705:705:705) (709:709:709))
+        (IOPATH dataa combout (406:406:406) (429:429:429))
+        (IOPATH datab combout (402:402:402) (425:425:425))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~30)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1546:1546:1546) (1617:1617:1617))
+        (PORT datab (234:234:234) (269:269:269))
+        (PORT datac (651:651:651) (652:652:652))
+        (PORT datad (1716:1716:1716) (1757:1757:1757))
+        (IOPATH dataa combout (397:397:397) (424:424:424))
+        (IOPATH datab combout (402:402:402) (425:425:425))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux30\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (865:865:865) (963:963:963))
+        (PORT datab (1597:1597:1597) (1677:1677:1677))
+        (PORT datac (808:808:808) (892:892:892))
+        (PORT datad (901:901:901) (983:983:983))
+        (IOPATH dataa combout (429:429:429) (437:437:437))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~24)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (710:710:710) (726:726:726))
+        (PORT datab (3739:3739:3739) (3766:3766:3766))
+        (PORT datac (1047:1047:1047) (1092:1092:1092))
+        (PORT datad (926:926:926) (914:914:914))
+        (IOPATH dataa combout (391:391:391) (396:396:396))
+        (IOPATH datab combout (392:392:392) (409:409:409))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~21)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (2993:2993:2993) (3060:3060:3060))
+        (PORT datab (747:747:747) (748:748:748))
+        (PORT datac (1485:1485:1485) (1560:1560:1560))
+        (PORT datad (426:426:426) (443:443:443))
+        (IOPATH dataa combout (383:383:383) (400:400:400))
+        (IOPATH datab combout (392:392:392) (409:409:409))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~22)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1542:1542:1542) (1612:1612:1612))
+        (PORT datab (235:235:235) (270:270:270))
+        (PORT datac (649:649:649) (650:650:650))
+        (PORT datad (1714:1714:1714) (1755:1755:1755))
+        (IOPATH dataa combout (391:391:391) (396:396:396))
+        (IOPATH datab combout (418:418:418) (425:425:425))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~23)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (2994:2994:2994) (3061:3061:3061))
+        (PORT datab (3737:3737:3737) (3763:3763:3763))
+        (PORT datac (203:203:203) (235:235:235))
+        (PORT datad (802:802:802) (816:816:816))
+        (IOPATH dataa combout (349:349:349) (354:354:354))
+        (IOPATH datab combout (402:402:402) (393:393:393))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~25)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (236:236:236) (277:277:277))
+        (PORT datab (235:235:235) (270:270:270))
+        (PORT datad (1715:1715:1715) (1755:1755:1755))
+        (IOPATH dataa combout (417:417:417) (404:404:404))
+        (IOPATH datab combout (418:418:418) (404:404:404))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux16\~3)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (245:245:245) (292:292:292))
+        (PORT datac (809:809:809) (817:817:817))
+        (IOPATH dataa combout (417:417:417) (424:424:424))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux9\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (906:906:906) (986:986:986))
+        (PORT datab (868:868:868) (941:941:941))
+        (PORT datac (1177:1177:1177) (1239:1239:1239))
+        (PORT datad (912:912:912) (989:989:989))
+        (IOPATH dataa combout (417:417:417) (424:424:424))
+        (IOPATH datab combout (350:350:350) (364:364:364))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux9\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1479:1479:1479) (1547:1547:1547))
+        (PORT datab (238:238:238) (273:273:273))
+        (PORT datac (404:404:404) (427:427:427))
+        (PORT datad (1118:1118:1118) (1159:1159:1159))
+        (IOPATH dataa combout (417:417:417) (428:428:428))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux2\~2)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (537:537:537) (600:600:600))
+        (PORT datab (323:323:323) (415:415:415))
+        (PORT datac (289:289:289) (379:379:379))
+        (PORT datad (477:477:477) (540:540:540))
+        (IOPATH dataa combout (417:417:417) (404:404:404))
+        (IOPATH datab combout (418:418:418) (404:404:404))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux2\~3)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (537:537:537) (601:601:601))
+        (PORT datab (322:322:322) (414:414:414))
+        (PORT datac (289:289:289) (378:378:378))
+        (PORT datad (477:477:477) (539:539:539))
+        (IOPATH dataa combout (417:417:417) (404:404:404))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux2\~4)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (486:486:486) (560:560:560))
+        (PORT datab (235:235:235) (270:270:270))
+        (PORT datac (371:371:371) (374:374:374))
+        (PORT datad (314:314:314) (409:409:409))
+        (IOPATH dataa combout (397:397:397) (424:424:424))
+        (IOPATH datab combout (402:402:402) (425:425:425))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux2\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (910:910:910) (990:990:990))
+        (PORT datac (1445:1445:1445) (1507:1507:1507))
+        (PORT datad (839:839:839) (899:899:899))
+        (IOPATH dataa combout (429:429:429) (437:437:437))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Mux2\~5)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1003:1003:1003) (1003:1003:1003))
+        (PORT datab (235:235:235) (270:270:270))
+        (PORT datac (1063:1063:1063) (1048:1048:1048))
+        (PORT datad (1118:1118:1118) (1159:1159:1159))
+        (IOPATH dataa combout (417:417:417) (424:424:424))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~26)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (238:238:238) (279:279:279))
+        (PORT datab (3006:3006:3006) (3041:3041:3041))
+        (PORT datac (210:210:210) (246:246:246))
+        (PORT datad (3358:3358:3358) (3370:3370:3370))
+        (IOPATH dataa combout (417:417:417) (404:404:404))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~27)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (238:238:238) (279:279:279))
+        (PORT datab (234:234:234) (269:269:269))
+        (PORT datac (203:203:203) (235:235:235))
+        (PORT datad (2959:2959:2959) (2997:2997:2997))
+        (IOPATH dataa combout (357:357:357) (354:354:354))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~28)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (237:237:237) (278:278:278))
+        (PORT datab (2434:2434:2434) (2602:2602:2602))
+        (PORT datac (2936:2936:2936) (2974:2974:2974))
+        (PORT datad (399:399:399) (403:403:403))
+        (IOPATH dataa combout (400:400:400) (368:368:368))
+        (IOPATH datab combout (402:402:402) (378:378:378))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|Selector5\~31)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (653:653:653) (635:635:635))
+        (PORT datab (234:234:234) (268:268:268))
+        (PORT datac (204:204:204) (235:235:235))
+        (PORT datad (2407:2407:2407) (2567:2567:2567))
+        (IOPATH dataa combout (357:357:357) (354:354:354))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datac combout (287:287:287) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|mLCD_DATA\~6)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1113:1113:1113) (1109:1109:1109))
+        (PORT datab (1089:1089:1089) (1088:1088:1088))
+        (PORT datac (1107:1107:1107) (1114:1114:1114))
+        (PORT datad (3007:3007:3007) (3046:3046:3046))
+        (IOPATH dataa combout (357:357:357) (354:354:354))
+        (IOPATH datab combout (418:418:418) (425:425:425))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE test\|u1\|mLCD_DATA\[6\])
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2154:2154:2154) (2169:2169:2169))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (2186:2186:2186) (2166:2166:2166))
+        (PORT ena (1651:1651:1651) (1600:1600:1600))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+      (HOLD ena (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|mLCD_RS\~5)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1695:1695:1695) (1813:1813:1813))
+        (PORT datad (1248:1248:1248) (1313:1313:1313))
+        (IOPATH dataa combout (417:417:417) (424:424:424))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE test\|u1\|mLCD_DATA\~7)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (455:455:455) (462:462:462))
+        (PORT datab (271:271:271) (310:310:310))
+        (PORT datac (1298:1298:1298) (1299:1299:1299))
+        (PORT datad (2053:2053:2053) (2088:2088:2088))
+        (IOPATH dataa combout (429:429:429) (437:437:437))
+        (IOPATH datab combout (418:418:418) (404:404:404))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL:1862))
+        (PORT datab (1623:1623:1623) (1581:1581:1581))
+        (PORT datad (4140:4140:4140) (4444:4444:4444))
+        (IOPATH dataa combout (377:377:377) (371:371:371))
+        (IOPATH datab combout (402:402:402) (393:393:393))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE Answer\[6\])
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2136:2136:2136) (2147:2147:2147))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5522:5522:5522) (5127:5127:5127))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_ibuf")
+    (INSTANCE answer\[1\]\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (700:700:700) (806:806:806))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector90\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1929:1929:1929) (1863:1863:1863))
+        (PORT datab (1624:1624:1624) (1581:1581:1581))
+        (PORT datad (4137:4137:4137) (4446:4446:4446))
+        (IOPATH dataa combout (377:377:377) (371:371:371))
+        (IOPATH datab combout (402:402:402) (393:393:393))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE Answer\[1\])
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2136:2136:2136) (2147:2147:2147))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5522:5522:5522) (5127:5127:5127))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_io_ibuf")
+    (INSTANCE answer\[7\]\~input)
+    (DELAY
+      (ABSOLUTE
+        (IOPATH i o (690:690:690) (796:796:796))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector84\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1928:1928:1928) (1862:1862:1862))
+        (PORT datab (1623:1623:1623) (1580:1580:1580))
+        (PORT datad (4308:4308:4308) (4641:4641:4641))
+        (IOPATH dataa combout (377:377:377) (371:371:371))
+        (IOPATH datab combout (402:402:402) (393:393:393))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE Answer\[7\])
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2136:2136:2136) (2147:2147:2147))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5522:5522:5522) (5127:5127:5127))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Equal1\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (337:337:337) (447:447:447))
+        (PORT datab (343:343:343) (443:443:443))
+        (PORT datac (302:302:302) (407:407:407))
+        (PORT datad (845:845:845) (910:910:910))
+        (IOPATH dataa combout (429:429:429) (437:437:437))
+        (IOPATH datab combout (418:418:418) (404:404:404))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Equal1\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (312:312:312) (414:414:414))
+        (PORT datab (961:961:961) (997:997:997))
+        (PORT datac (732:732:732) (736:736:736))
+        (PORT datad (204:204:204) (227:227:227))
+        (IOPATH dataa combout (375:375:375) (382:382:382))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector5\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1584:1584:1584) (1546:1546:1546))
+        (PORT datab (482:482:482) (558:558:558))
+        (PORT datad (4252:4252:4252) (4606:4606:4606))
+        (IOPATH dataa combout (377:377:377) (371:371:371))
+        (IOPATH datab combout (359:359:359) (361:361:361))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.wrong1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2170:2170:2170) (2182:2182:2182))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5693:5693:5693) (5321:5321:5321))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE NS\.pulseW1\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datab (317:317:317) (405:405:405))
+        (PORT datad (4251:4251:4251) (4605:4605:4605))
+        (IOPATH datab combout (418:418:418) (425:425:425))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.pulseW1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2170:2170:2170) (2182:2182:2182))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5693:5693:5693) (5321:5321:5321))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector3\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (336:336:336) (441:441:441))
+        (PORT datab (1508:1508:1508) (1480:1480:1480))
+        (PORT datad (4297:4297:4297) (4656:4656:4656))
+        (IOPATH dataa combout (349:349:349) (354:354:354))
+        (IOPATH datab combout (350:350:350) (361:361:361))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.correct0)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2169:2169:2169) (2181:2181:2181))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5664:5664:5664) (5288:5288:5288))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE NS\.pulseC0\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datac (278:278:278) (359:359:359))
+        (PORT datad (4298:4298:4298) (4657:4657:4657))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.pulseC0)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2169:2169:2169) (2181:2181:2181))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5664:5664:5664) (5288:5288:5288))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector4\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datab (468:468:468) (527:527:527))
+        (PORT datac (426:426:426) (491:491:491))
+        (IOPATH datab combout (441:441:441) (443:443:443))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector4\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (485:485:485) (556:556:556))
+        (PORT datab (4335:4335:4335) (4706:4706:4706))
+        (PORT datad (216:216:216) (244:244:244))
+        (IOPATH dataa combout (357:357:357) (352:352:352))
+        (IOPATH datab combout (389:389:389) (386:386:386))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.Q1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2169:2169:2169) (2181:2181:2181))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5664:5664:5664) (5288:5288:5288))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE NS\.check1\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datab (4334:4334:4334) (4705:4705:4705))
+        (PORT datad (295:295:295) (373:373:373))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.check1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2169:2169:2169) (2181:2181:2181))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5664:5664:5664) (5288:5288:5288))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Equal2\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (321:321:321) (433:433:433))
+        (PORT datab (321:321:321) (424:424:424))
+        (PORT datac (285:285:285) (381:381:381))
+        (PORT datad (289:289:289) (374:374:374))
+        (IOPATH dataa combout (349:349:349) (360:360:360))
+        (IOPATH datab combout (350:350:350) (364:364:364))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Equal9\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (334:334:334) (443:443:443))
+        (PORT datab (341:341:341) (440:440:440))
+        (PORT datac (297:297:297) (401:401:401))
+        (PORT datad (277:277:277) (366:366:366))
+        (IOPATH dataa combout (406:406:406) (429:429:429))
+        (IOPATH datab combout (406:406:406) (432:432:432))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Equal2\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (867:867:867) (963:963:963))
+        (PORT datab (1270:1270:1270) (1312:1312:1312))
+        (PORT datac (729:729:729) (740:740:740))
+        (PORT datad (767:767:767) (776:776:776))
+        (IOPATH dataa combout (375:375:375) (382:382:382))
+        (IOPATH datab combout (361:361:361) (361:361:361))
+        (IOPATH datac combout (285:285:285) (281:281:281))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector9\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (4321:4321:4321) (4693:4693:4693))
+        (PORT datab (246:246:246) (285:285:285))
+        (PORT datad (1233:1233:1233) (1229:1229:1229))
+        (IOPATH dataa combout (400:400:400) (400:400:400))
+        (IOPATH datab combout (389:389:389) (378:378:378))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.wrong2)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2141:2141:2141) (2153:2153:2153))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5391:5391:5391) (5009:5009:5009))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE NS\.pulseW2\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datac (1378:1378:1378) (1445:1445:1445))
+        (PORT datad (4249:4249:4249) (4604:4604:4604))
+        (IOPATH datac combout (287:287:287) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.pulseW2)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2170:2170:2170) (2182:2182:2182))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5693:5693:5693) (5321:5321:5321))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector6\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (1587:1587:1587) (1550:1550:1550))
+        (PORT datab (481:481:481) (556:556:556))
+        (PORT datad (4249:4249:4249) (4603:4603:4603))
+        (IOPATH dataa combout (349:349:349) (354:354:354))
+        (IOPATH datab combout (350:350:350) (361:361:361))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.correct1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2170:2170:2170) (2182:2182:2182))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5693:5693:5693) (5321:5321:5321))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE NS\.pulseC1\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datab (4284:4284:4284) (4647:4647:4647))
+        (PORT datad (279:279:279) (351:351:351))
+        (IOPATH datab combout (389:389:389) (386:386:386))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.pulseC1)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2170:2170:2170) (2182:2182:2182))
+        (PORT d (87:87:87) (104:104:104))
+        (PORT clrn (5693:5693:5693) (5321:5321:5321))
+        (IOPATH (posedge clk) q (232:232:232) (232:232:232))
+        (IOPATH (negedge clrn) q (223:223:223) (223:223:223))
+      )
+    )
+    (TIMINGCHECK
+      (HOLD d (posedge clk) (186:186:186))
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector8\~0)
+    (DELAY
+      (ABSOLUTE
+        (PORT datac (276:276:276) (357:357:357))
+        (PORT datad (278:278:278) (350:350:350))
+        (IOPATH datac combout (285:285:285) (280:280:280))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "cycloneive_lcell_comb")
+    (INSTANCE Selector8\~1)
+    (DELAY
+      (ABSOLUTE
+        (PORT dataa (456:456:456) (460:460:460))
+        (PORT datab (1422:1422:1422) (1451:1451:1451))
+        (PORT datad (4298:4298:4298) (4657:4657:4657))
+        (IOPATH dataa combout (406:406:406) (429:429:429))
+        (IOPATH datab combout (402:402:402) (425:425:425))
+        (IOPATH datac combout (409:409:409) (429:429:429))
+        (IOPATH datad combout (155:155:155) (139:139:139))
+      )
+    )
+  )
+  (CELL
+    (CELLTYPE "dffeas")
+    (INSTANCE S\.Q2)
+    (DELAY
+      (ABSOLUTE
+        (PORT clk (2169:2169:2169) (2181:2181:2181))
+   ½_ø{UÈU¬fİCÁá±à”é·«lg#ıå{Õ{ëMë‹™´,|òüRøä?™“üûÃ®4¥Ä?Î+¢B.gi¿î)Ö (®àÂÂZBi"á¡{
+MK?--4İSx`étÀÒ‚[ÒŠ3Úçj!óÓ×ÿSØÒqÓUí8å¤n:œ–öN›ÑSN¶oG!’’^®‚¥ƒt°õÚõúöoÉ@¤8‘à°´ˆc-¡ß…´Xq"Åˆâ¹®ĞatÇµ	§Å™Ü÷;íoåQÓÕ'—üÀ®èf°òH;;K<Ğ†‡âŒŞ‚ÃrÅ>äŞ<şWhğb«¯VJS2%e¾µ˜èıŸà<­8“Á¡4ïç“vâa‚·èÊyTšâœ§‡Ò’ÿv°á‘üô`Ã#§´h|½Fô´`Ÿ¹öœ·âPšâl_,¸eë	wÏg„~tµ˜LËºr+,À‡Ò§Ò^+ge…ñş?nJœSàô´‹nÉ2ÂFÙaB,8”N¥m½…\âÃ„\L	¾l_ÕD^Õ“­òAiÄåALQ1EyS”FLQ(9şä£vœò¶èÆ(8”¬8~”÷éñæ	Q|C.¦ä„öûŸfót^h{nJ3
+„öê–±y:*ó¢="¦4„V]â‡Ş!t|Â2ÛsK«?»v˜sÏàŞìi«¨ßßvã.iî:8Á=ÓÏw²U^¼øÑ÷l;ê¸}mÁ¢84—Î)ïö'm•ç-rÎá¡à„‚C¦ğıÌ=½{Üw1
+÷Tîî»xÓ½üLk¬8Ü3œî¹u)piÜÓßñä¬Ä­f „¦¥…‡SĞÌÈ„‡™Ğœò„–:¿Z™î©cKiÅó1 ?*½¦’mTzŞGfÛg9÷ôîüÑvWÓÏÚÚîªÒZyèõ>·İÕ¨G'Û]Ušî)<:íx¹Õé´Å–‚ChÅi‰’tŒ>Û7«Ğû¡¼="æ¡•B+M+4­4„V/]]ğµwÅ!ôO nİ(Á™çÿ¶„sc*Yë2†~mmqÇ˜RBøE>âj»3W9qpÉÎòÇ˜Rœ!ÿÂ›m>ø …|Á1¦Ç˜
+gW´ïæËì¢…âœ'‡%ı­së©œÒ‚§Ü=PZÜê<K.‡Ò‡ÒŠ}ç"|¶œU*ø/õµ®ÂŠCiŠC¦tŞ…¦´øç1SiŠsœJkÙÅ”¾Yr
+¥)N¥]Ş ›Rf-]rî»Ì.o…oLÊ.o	NOJ+öÉˆxFUSZ<gİîô4Åéi‚CiÁG“³Ë[ûÓ›JSJ‡Ò¢³²WƒgWÏŒLq&‚CiaŸŠÙå­»6QŞ!
+àÎÉ®-ß‚]³Ö’‹XhFoáaLyjª•U}w´îJ3¦=³¤«BzÂÖ«°B1ÅìNZS¾}Ş®ş§Y—©ôßem?:è˜Ï8O‡—Uÿ‹ÇFÑk‡ZÌ1ÙÕß2¿Â˜’”›[–ö‡¥‡¥õ3±`ñ+¹ïÂ<­ŸIK¿ê¾–V~ÌÓAUÇ-låçğ~(Å«\×öÈ¢qm{—jÁıå•‚Ò‚GµG±“?á¡8,”ThŞU<?ï2¹¹è”¨4à-ûQi¡àŒ)‚SiSvÈ’›÷×œÊá
+¥y‚CiiÇÕ–{{ÎM¥)Î@,8”–ì¹!ËønUº¡ş7“£ÒÂ»‚\Í«F¥¥ß/j@w/ö˜-w7OKg¯K¥)¥)N¥]š³ùgdÇl¡àPšâTšËÁÓ’?K‡Ò§§ÍßÙ6.ãºß–î¿ÌT;f‹»ìb—Ççì%8<Í»§[ÁV_Šğ´øªË×siìïó••*NOJ‹O”yÚ!3¬dLqzšàPZxQ”)mĞ=wRiŠSi‚Ciñ÷XÆ¼pqJŒK^_`U×Ñ×ÇÙ®âPš¿ÒáPZ|Ê5v,_Ù¡8“µ\ÕuüŸ§¬ê:êõ–(¥)NO»ê|›òıİv¾Ş†§àô4Áéi{VÍ¦ü–;¼L¥¥‚3¦	¥¥“°ªëhnÕÒU]‡5FY½×Û¿ñn¥Ğ˜½”³WpñEVoà_ZËê”Æì¥<Pr±õéµííX<÷ĞÂõÉĞÑ-lÊm8¨……†ĞÊ¡•æ¡ğpPh­<ÚÿäëŠµEóWÁé¹ÎæA¥İ³<â¬õ…ïKGİ†Û”›¶mdS®âpOÅég6ÉÉõI‰§9÷L'^j;7áégÔ` Tî©8Ü3•=ñàİvˆ]UœcZpé±'š{z\3‡î
+ÎÙCp¸§¿á&«ªNçL8¡TSnzÀV¤}x»¥ñŠCiŠSiE¾‹á<8k÷Ny«UJç˜~ë2ÓŞu7Z†Pp*Mp(-ò¿±=B¿öÊùTšâPšâTÚ?²öùd°­}‚÷>·M˜øĞSm&úşkk{”ÿ÷«LîôC,µ“²É¥v""O‰×~¹‘³Grü™k¹	£8”¦8”|ê*'™Üı8şU&wq§ìaÄø£‘_v€ÒÒË?¦Üğø{ìaÄ¤²ã‡ÒâN6(-Ùº5w‰Œâ5`N_?İzøÇÓÇe1EhÄåAL‰_tüŒ)Ï8Æ¡S”‡YítÛ#ŒÇd=ücÁ1œÇŠ/ÛÓJ§í6ö/¸	“Äm³@ØÔİŸáa‰Ğ„ÂÃ@(4…
+-4¡ğ@èpô>åf°‚Ch§Â´D¼>k!]2/·G˜Ótrì+&LÚ-·í.¥)´ğ@è°Ó)u)t²ñ3+UB+„ÖzÔÏ—¤Ö5¨ı–¥¹ş™ë
+ı¬Í“Ñ«¿Ú*Oi­<Zø¡iå¦•¦ĞÂ¡£ºíÎJ>Q<íáÑ¨§Lè ßÚœĞt’EC\OQn‚\xº=£8ÓHÁ)DÿÏĞÜ[!x^‚·[­k<5÷BªàŠC¦¤åİ=“»Ï½‰‘âˆŠ#xµµëIÿ=G PœJé=ÔÒÈ¸ÜY):Jô\ÛùCÍÒáËí‰¥aéHxhéİ2K{7ìf‘Ò´´ğ@É%>åÅ
+Ãì‘-ïé]²@³´?¿«=æ‘şX×óˆ^t8çÉu‡şªK-÷İ¢BpF#¹{BKŸ8Ç®K$»¯oÆä"œ!_p†ü>Y+¯èÓ~}ëù@pXZqX:9ë2»c¯xÈj^gÈJ	Ú×°ä"ù¦JÉ…( !?šû³maûëÛÂVš–X:¾ßµÓÄ˜Vk[ØJÃÒÊ%‡û·,øbŠâP²¾˜BKo½åDİ¦@8½â‹i§	Ù5I¡!´ò@h¥ˆu<DBChåĞéI•¬Ş=_¥8„VBû?}}LûÃERw•cú¦c
+ºgĞ³§¥qA³ÆˆÂYÕÚ&?¶³@NÆnóDcİ+æÜü?Ò½VNÍMhItn+{k&i³ÿtOÅé‚Ã=õ3‘‘èwÁ=ùL¸g*ß÷ŒÏ¿Ø2’táb{V5¾k€e$şÊö’zxf'[ÅåQk›sO/şÁ®Wx×.°«ÏJÃÒÊK+K+,­4,­<tÏ?gÛa…3½…‚CÉŠÃÒéŞØ”“Êv˜\g—| º£ªM9ÉÉ®‘
+„ı&{Xîv¸EÃàdWJ‰É:_æ©8„Pœ{dµ'.¢¥?Ûˆ¡à°´âIÿ–ÖÏ„¥‡¥‡¥Ó>]lç"¨÷Ÿ¬6Vp"Å¡”íZšS(	:ğˆ·QZĞù«„ˆÿzÎZi)?Jw›“µ3h½ç©œ§“ß•íè}Á9<‡Ò¢Zm­iZtõ/vÂ£8•&8”–¬zwWëSúõÏ±ÍÓ‚Ci¡àPZğĞ3»X%ÄÄÕos•£8”æ	¥y¿5´ÃŠôÑÛ•|iˆ$JZ65OSZVšSğÀİ‹=jŸìM8¥yoLp(MqzÚu•lÌŸ”5§‚CiŠC	Áà-FD/"Fä†[Ô¨¢Ö°U+[ê)%(%$_`àòâğÅ¡èäéo,ÃË,4ÏQJPœ··yã£wzİ<Gp(AqzÎ¹Øƒ¼ñDWÙİÕ@pÎû‚CiÉ­?„œm¢«Ö‡æ9ÿs¸å«Á‹6…ze®²)TiVåA`ÆÜkğİ©6…*Àª<P²?mÌ"Æ´¨Ád¬ŠCÉŠs8œõ½U|=wÿ<géäû¯íğ!>¸“]ˆMXb‡éí½³±Ó~¶·ƒâ9}VÛ*8„P–NvlÎÃ‡ óp{Î]qXZqÈ¤‹ÀšÊg"°*K+K'µı‹ú¨ñsY§ÁaiÅ¡”°Z…lO­¨±9¥yµzØğğ¾­cyG<½³åñšæ–wx3¾¶¢ƒèşºÙí¨7²f5á¦ÖYZ|Èu•¨´4|²óXp(MqÈ¤Ÿ	¥éwAiú™¬ò]Pš×æĞMTš·éO«Ëvq2Piã|Ìá‘æîø¤«zSrÃ#xk÷lwµéV
+á¡<J#ïPÛTpüÊÃáQäÓZA“Oæ˜š?•{ã.géğä­.Î? YV×ñ¹F\ …oÄÙ ÄwK9ãÔÑ\
+¯í`.y‚3
+™’_]ÃvX:~ÀİWe†)8¡à°t ÷X±çå=ìpBÁ9…
+á±Í]×ÒìyùU¼úÜ>J«¬±{{J3
+,­ü\KøŸk	¡aiå¥£ãfÛÍŠül£x~¶Áò=`k‰ôÈ/rk‰œ{¦×<mÑ;>{ Eo¥!´òĞ=ß¹Ï¢wòÇ¥½•¦{
+„Ş¢aU.øçm tpÆœãèşæ?»L‹½÷ŞnÅ˜dåœ6L‹g²òƒÃ©¹"û“{_~f­¶£ÿ9ˆHq¸§âpOmêÌ@ôöm9O+÷ô§{^’½.>îrsOÁáŠÓ=·~¢Äî™ÓÑ,»ªíí³»­%BÁ¡4Å¡´÷GÃ˜öw¹7Ûü_|KÖmDpNy‚sL¿ú ]äI÷<÷j*-œSàPZXåz»È“vÛs•¦8•&8”¶M¿¶+-7<Â÷³1œRÇ¶„•ÆğP¥1¦•cZiå’Ãow²>¥.·äFqŒiÅù£nÉŠÂó]WiÉİuÕ˜:i2Â;F#¿²ÆJChåĞJ3	?‘ĞZy ´7wy¯B&Å!´.¤ tÜ¹IGé´ñn3¡sî™¼ÕĞêòÒgçZï§(q8ÜÓŸïp‘R¦…ˆOrMo¸©!832Ááqßr»1¹ˆº½e­®ç˜œ2Õ½ÆvW½xæ$º§'8Ç´àpÏè¦ÛìlÊ½Åi%fŠÃ=‡Rüë«ÛªÍöÅ¶«6±ª,Âd—U~¿åä9K‡ß÷µİÕàÖivŞ¬4İSx½¿;ÒvWã†‰í®*Íè-<PrR~¡İÒ'ZÏ´Wq(YqZz [yaûJ3&'÷¶ëóscDşÎçYÏˆøë,…S¯·ÅŞ]Ë~V–Wşn-Jgr!8,\•]øMš¸Õ’ÅaiÅaiİìàZ’­²‡¥CÁ©”a¥Rü{úvµU–)ÇÿkS#‰ÇÙ4éÀÛ­Z*œ}ˆmIûı‘üömÁ®ê”-X§åÇğ?zÖîÄ$üÖ”SâPšâPš~&,ò™Ì½å3½‡Ò‚¿ï ¥Åo÷É65‡Ò‡Ò¶»`ùŸJËàµ*Öî0\z½.¡4†‡ò0zŸØ+Û’ş÷#öªS 4£·ğ`xè+ØnËWUÿºD^èG6Úå¼@hœB*M¡ç˜Ñ[y½•æ˜¾Á¸Œå	No¤kLÏĞ'th‰Ö[ 
+_ı2w½‚‘Ò™$œñ€˜„×m4÷Lï”¹çˆÆvbâö¯
+6£QœBH²Îè½æù†ÓÁªÑ=cÁ™\Î1-ËŒL¾‹cZpFoÁé‚Ã=ı§^`Á 8”âÿòQÖçßçQ™³tr÷ı¹`ğîhĞ‘–Všó´ğĞ=ïr4,­<°´ÒtOá¥Ó¿/°CşİÅ¡dÅÍÒÛ{è>/ô‰wÚÕfi[Ï*M¡…B§=¡Ó/?„VB+„Oå@Îëùæ5ŠCè|óšàÄÓì’{ò\»S³ä"'tĞ½¥½Âäù¯õçVšcJx t´hßZ:ŸZn¥!´ò@èøÎÿZ´MÇÒ¸à•ö´t:hò¯6%ÔkódÜëÜ\]VnLE£RÛÇNã6V­£82"Å)D‘}O£»æ¯eáI:2µ²EÅ1¦‡Léë,#Š~¯õ3"Å1¦Ç˜Š7¶Œ(½ö¢8¦gÂ.8ÇÔÙm,Ğ$‹î)¢è>oé¯*[æøù‡ÌÒJÓÒÂÃè)4ÜSyàJ3z
+”ì.|¨¯8ÜSçøQÑÖ‡è6å„OÛ¯Aâ±ûØJChåĞJChåĞJChåĞÉ7oÛû\ùSHÅ!tşr›¥S!¡Ó57¶¤Ğá©İ[2z)¡•B{?8~F¯AŸÑKh­<zPO{}0_â“Îè%¥?ÔôĞÜ“‰çïß¹` ˆ†Çöú`è·³k€JChå¡ĞŸİh¯FW¹V]Zi
+-<ºÄoŞAètÉS¶İ,¯^x»#J‡g`÷Cí@Kq.*9BøenÉš¿@©84·Å+ÁóŸñ8¹z#»YîTpÅâ¿Y Ú”ÿâŠW¿qï-¹ß
+OÒµeí â‚C)Ásım½ş~sé3ø‡Ô³Ü/ùı*Ëı”†¥•‡`‡G,÷ó.yÖr?¥„Jº¶)X 8”œ/Gˆ;ú¶Ÿ¶½§pUk:ò€*ÜØŠ¯víî°,P–VBÛ6¾rİùí÷Õ
+Î/8-½úŞ=yt™öya…YZpfù‚ÓÒÏ=ñÓ(ï§“¾aÈO‡¥§¥+õÊBşšiYÈ·Å®sŸÿµ4
+–û6<â=¾´á‘Ì(o]£õJ‹g]ğö7µğí›¨rY;ºôvúÄªZçğœóähw£¹g0Æ}rÏüí›à®ìöMz¾ãGî™¼ëø‘{nqûffvû&6İ”íYÊÆQÓËmŒÎÛÑîn*Í@(<ÉeÃlLí_‹Piå’“Ï+XFäWnc5'ŞÒ,#Šï[iQş¬%\Ú1—Ébë.¾h–]K>^neƒJChåĞJs~Î“BChåĞi¹!VÇ•ßaWc:?¹³Z›%Â“¶ÓÍÂ»a´]ŒZíg× ½›ªØ5À¤ó»Xâ‚K.^¿·	£·¿pR[	÷Tî™oò–>]¸É›âÓÊ÷Tî©8£·|Æô6ÍNK³ïê×úİz„•ÿ2K+Íè-<°´òÃÒÊK+K+,öõêrŠÌgDŠÃÒùŒ(?æ’µÿ-¼k–İ3VÏîÅ#W['»èäávÏ(İÔÈªu’mwMqN!‚sæÙ¦V­<Òå`Z:–Vœ––¿E òWºïB ÒïBôVœ–~X:\íøiiÁaiÅiéÛ¦Øşp™áİ@Šè[’ÓŞËíÛ0LV¿ÜŠi¤Ò°´òÀÒÑğÛ0ŒêıÖŠcZiXZy`éøØIˆòaŠÓÒ²i…Nü¢ı¨a“
+?Tà/Ü`ótøXC[š)yZqº[[
+–‡‚ç,\>Êš­øw}oí÷ç˜œSÎÀÊV(¼úå,ÎÓ©àÌÈ‡¥£ckÚÒÌ»òêÙ´´âœ§‡Rò-6â“Èæi1½?¸œ§s–ªT´òz‡ØÎR”†¥•–VcZy0¦•†¥•Jöß«T°]ŸâP²ÓÊëÓ¶í­¾9™·KáŒÌ÷­uNOŸÜßJ“±§¥Ÿw8„H~XŞ›%,¡8„PœcºR¶ŒŞáÆfmmLK+KëßbL‡›ÇX‡ÅaiÅaé°Ïl³tòÚMVk©8,­8,ö-o.ı}½Òmlù»çÍp‰[ila*Íè-<ŒŞBÓÒBÓÒB3zMKçCóß[`ÉE¼8{-˜Ô:º¯?kP¶İÒ§sáä"ªï[ırğ»[<pßUh­<tOßñCè¸L}[0(M÷íõ-ìŠç=c{–°±&ÈŒ¨]:B+¡•†ĞJShá‡¦‡ĞJCè|Ñu|t·Ÿx ”/ºVBoÓ ĞÑª;mç ¾cBváPhjZx ´òShá¡ĞBChå¡¦ï=ª’Á	Ùå OpjZpjºC¶sÌ±@pqã\šEß7´’˜`Êf»y½p¶•Ä”8F Hÿ[Án^'G6²;şŠ#(@ I5A:Ë%Û\e<ì’j‚è]—lWxòcr÷Şrü˜Ü5	g÷±ã‡R¼µ/Ùw<§aéAtË—Ö!Æ[¿¾6İSiZZx`iïÌ÷í·èˆ²’¡aiå¥‹½6ºÔB~ús£²="hUUuk+›Ü“¿:Tá"Ü!_qM¯dU ù÷€‡»)KG*-å"<øáJ.Â‡¥‡LÑ_Ç–ã"<>ò»%œÜ‡¥‡¥ƒ=ËZ¡DğÔGŸĞÒŠÃÒŠÓÒ¹şY[Lîÿs¤J{à3[„{B3JSJÓ6¬T—0N¡ÂùÙ"<¾ì˜ìÊÌ !¶GÍúa¡©4¡¡´-Z`¬)¼ŸÊÕŞÉÛRÎûlQNÎsüKÛZŒ¨5¯-• 8”	%„“Ï¶FıùÅóŠŠökÔb²wlQ›Jğ§‡LñÙÃğŞA×v¦ç(ÏQã¾ù. â™;_JÏQ£8<g›\¹ÄK½œÒÒƒv4Ï‰Gîl£8”¦8”VìÑnõìõÁ¤wü—7ÁX‡LÉ¡OÛî¦×âV;æPœJœJ;çuË°Ò³j¾hJœUp(-Ø!{ù:xgò¶&ÃNFÏ6…y¥µÈ:Îø«æØõ÷p§¬ãLôˆkaÇUdÇ™è‡Ÿ³ÙhÙ‹6)N¥	™¶nÿ?tœ‰ç]_Ê3¢ ¸erïgU™–Fç®¨ÊÙHiÌFÊƒÙHiäÊƒ¼CiÌFÊ%'·ßXp•§8†s~ûh›U•R]Må…¾åÛ	‰æ^o;!JShá¡ĞBShá§ĞBSháĞÁ£Ïvf²”?,PBç»-¹-Ûàü›s;!9¡ã›kÙ h[Î„VB+„VB+„VB+„G®*xÂ¡x¡ı­ûyÒ´ÿ“ges~‹­ğBi­<:Øç]+¼HNŞ1{pVh­<:ZZøEOüv^ôÜú)$:üy:pÊIÒaV
+Îu8¢§âÂ»pcÖCšn°úCpú¨àœrn{Éöœ¢ílÏÉ@qÈ¤>¸ù½zvN9Š#z‚#zFG±)'xî9›rg²"8¢§g;F‰O{?»”lÊqsæ:¦øƒÜÿ»vµZC¥ñJsÊ*íÂ¯†~}0ĞÊ’¥ÙWSp(Mq*-÷ú`0£ğëƒÉıÙëƒé	îÑZl¼y­Üv
+eT‚ü DÃ´oW; ‹ÎXiïF*wW¸»w’ãg`~¡áîÊ¥¥£µCç|!‡âğ´-
+9r¶{!Òk²¬>İ=,÷N}fXa}‡ÃrŠCˆø•AV“Bñ¼ğÿÑKöa†°rfXŠÓr‚sŞ[½]Só.Ÿ=”î
+ÎdAp¸{XçÊl‹µj™¬ˆYp¸{(8Ü=zâ+»%ušQº¦aÑK'Ù›pñw[ËKÅéî‚CiÅ>áà½=s÷.ÿf†¥8•&8”–®™f•ßñô^WQiŠCiŠCiÁ£mAã{È¿˜a)¥)N¥¾=ÍÓ"†”ás¸=Kµ¾Î2,š¶™Ş5ÉNşı[F[Y]¸r®VÅáiŠÃÓâKo6O¼¥åéiŠCiŠC¦d­ûLÖ+Üwq3_pVÁ¡´t™Ã±Şvc7Ä‡Ò‡Òâ_Ög&ÍFJ“Ë'ohÁáé×Ülg]ñŠã[px&ïÕ‚Vâ¶´“zùşkûÙÅ_p(Mq*í×‰»¥¾kuK¥	¥…‚CişÂ¬s{ÜËá<ŠJSJK–^mwıÙc‹hœó´ôÎGí6‹·w×VŒi÷ïVTZúé VTZ‰+ ´¨ß²ÚTZ2Ñ=Ú‹ÙHq(MqÈä÷vû|TÚ®®Ê;K‚Si‚Ci^‡ÓÓ¤*JSœ&8”vû4;ayíî"zúåf¯à¾Ÿ²~ŞBs·VhÌ^ÊÃdMpf˜B3ÃšÉšĞˆ%>…ÅÚæ),‰!šwä,ñŒ]²ö›÷·+8~4Ó®óÇç±òûğƒÑ¯¾*ÎÙK®ÄÂÒÉªJÖÏÛÿìD«TPœÃCpÈÍzÈf/¿»û.XZqXZqZº¦û.X:éâ®åÒÒ‚ÃÒŠC)I©ûyç”æ¯»Û¦|Ï“³)¿a`S¾¿ó“õi¹×bBiéûÙ¦Jp×Ëµ8<g 2G»úNälW÷	¥…Ã\}'”?ëê>¡4å‡Ò‚›?”¦õ Pšÿ²ã‡Òü>¯f¯gÔ+bxä”æ·Áê±Ó??Ëê±kõØA­#ìØÊï¼d¼õœ=ø«8<Mq(-wbSÆ”àçfYÁ©4Á!“ş-”¦ŸÉ@,ßEO ´dÈ÷öào:¬ap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~21 .lut_mask = 16'hCFA0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~21 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y44_N28
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~18 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|word_counter [1]),
+	.datab(\auto_signaltap_0|~GND~combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|word_counter [0]),
+	.datad(\auto_signaltap_0|~VCC~combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~18_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~18 .lut_mask = 16'hAEA4;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~18 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y44_N14
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~19 (
+	.dataa(\auto_signaltap_0|~VCC~combout ),
+	.datab(\auto_signaltap_0|~GND~combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|word_counter [0]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~18_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~19_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~19 .lut_mask = 16'hAFC0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~19 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y42_N8
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3]~3 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~21_combout ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|word_counter [2]),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR~19_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3]~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3]~3 .lut_mask = 16'hBB88;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3]~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y42_N4
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|word_counter [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8 .lut_mask = 16'hF444;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y42_N18
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr_ena~0_combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9 .lut_mask = 16'h3CF0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X79_Y42_N9
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3]~3_combout ),
+	.asdata(\altera_internal_jtag~TDIUTAP ),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8_combout ),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X79_Y42_N15
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[2]~2_combout ),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [3]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8_combout ),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[2] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X79_Y42_N31
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[1]~1_combout ),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [2]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8_combout ),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[1] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X79_Y42_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~0_combout ),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [1]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~8_combout ),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X52_Y42_N24
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~2 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][4]~q ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~1_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr|WORD_SR [0]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][5]~q ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~2_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~2 .lut_mask = 16'h5044;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~2 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X52_Y42_N26
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~3 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][7]~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][4]~q ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|info_data_shift_out|dffs [0]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~2_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~3 .lut_mask = 16'h5540;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X48_Y42_N20
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~4 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][7]~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][3]~q ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|status_data_shift_out|dffs [0]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~3_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~4_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~4 .lut_mask = 16'h3320;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~4 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X48_Y42_N22
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~5 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][8]~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][3]~q ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|segment_offset_config_deserialize|dffs [0]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~4_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~5_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~5 .lut_mask = 16'h5540;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~5 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y42_N30
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|node_ena[1]~reg0_q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][9]~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0 .lut_mask = 16'h0020;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N14
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~13 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [0]),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~13_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~13 .lut_mask = 16'h0606;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~13 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N22
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|sdr~combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|LessThan0~9_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|LessThan0~4_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1 .lut_mask = 16'h5444;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N15
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[12] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~13_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [12]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[12] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[12] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N28
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~12 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [12]),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~12_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~12 .lut_mask = 16'h00AA;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~12 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N29
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[11] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~12_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [11]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[11] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[11] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N24
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~11 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [11]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~11_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~11 .lut_mask = 16'h5500;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~11 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N25
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[10] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~11_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [10]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[10] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[10] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N20
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~10 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [10]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~10_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~10 .lut_mask = 16'h5500;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~10 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N21
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[9] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~10_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [9]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[9] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[9] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N8
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~9 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [9]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~9 .lut_mask = 16'h5500;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N9
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[8] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~9_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [8]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[8] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[8] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N12
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~8 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [8]),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~8_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~8 .lut_mask = 16'h5050;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~8 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N13
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[7] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~8_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [7]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[7] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[7] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N16
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~7 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [7]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~7_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~7 .lut_mask = 16'h5500;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~7 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N17
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[6] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~7_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [6]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[6] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[6] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N2
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~6 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [0]),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [6]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~6_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~6 .lut_mask = 16'h0906;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~6 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N3
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[5] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~6_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [5]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[5] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[5] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N30
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~5 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [5]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~5_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~5 .lut_mask = 16'h0C0C;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~5 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N31
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[4] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~5_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [4]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[4] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[4] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N18
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~4 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [4]),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~4_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~4 .lut_mask = 16'h3030;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~4 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N19
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~4_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[3] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N22
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~3 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [3]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~3 .lut_mask = 16'h0C0C;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N23
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~3_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[2] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N10
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~2 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [2]),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~2_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~2 .lut_mask = 16'h3030;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~2 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N11
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~2_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[1] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N6
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~0 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [1]),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen~0_combout ),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [0]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~0 .lut_mask = 16'h2112;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr~0_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y42_N6
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~16 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|node_ena[1]~reg0_q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datad(\altera_internal_jtag~TDIUTAP ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~16_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~16 .lut_mask = 16'hDF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~16 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y42_N14
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|crc_rom_sr_ena~0_combout ),
+	.datab(gnd),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][9]~q ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1 .lut_mask = 16'hA0A0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y42_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[15] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~16_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [15]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[15] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[15] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y42_N28
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~15 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|node_ena[1]~reg0_q ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [15]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~15_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~15 .lut_mask = 16'hDF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~15 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y42_N29
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[14] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~15_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [14]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[14] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[14] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y42_N2
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~14 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|node_ena[1]~reg0_q ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [14]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~14_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~14 .lut_mask = 16'hDF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~14 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y42_N3
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[13] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~14_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [13]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[13] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[13] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N6
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~13 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [12]),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [13]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~13_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~13 .lut_mask = 16'hAFA0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~13 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N7
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[12] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~13_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [12]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[12] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[12] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N2
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~12 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [12]),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [11]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~12_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~12 .lut_mask = 16'hFA0A;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~12 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N3
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[11] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~12_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [11]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[11] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[11] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N30
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~11 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [11]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [10]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~11_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~11 .lut_mask = 16'hFC0C;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~11 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N31
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[10] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~11_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [10]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[10] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[10] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N10
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~10 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [10]),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [9]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~10_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~10 .lut_mask = 16'hFA0A;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~10 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N11
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[9] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~10_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [9]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[9] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[9] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N14
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~9 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [9]),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [8]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~9 .lut_mask = 16'hCACA;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N15
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[8] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~9_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [8]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[8] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[8] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X56_Y43_N18
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~8 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [8]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [7]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~8_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~8 .lut_mask = 16'hFC0C;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~8 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X56_Y43_N19
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[7] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~8_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [7]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[7] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[7] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N20
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~7 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [7]),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [6]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~7_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~7 .lut_mask = 16'hEE44;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~7 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N21
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[6] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~7_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [6]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[6] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[6] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N16
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~6 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [6]),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [5]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~6_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~6 .lut_mask = 16'hEE44;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~6 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N17
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[5] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~6_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [5]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[5] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[5] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N4
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~5 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [5]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [4]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~5_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~5 .lut_mask = 16'hF0CC;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~5 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N5
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[4] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~5_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [4]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[4] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[4] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N0
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~4 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [3]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [4]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~4_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~4 .lut_mask = 16'hCCF0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~4 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N1
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~4_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[3] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N12
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~3 (
+	.dataa(gnd),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [3]),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [2]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~3 .lut_mask = 16'hF0CC;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N13
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~3_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[2] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N8
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~2 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [1]),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [2]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~2_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~2 .lut_mask = 16'hAAF0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~2 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N9
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~2_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[1] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N24
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~0 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_gen:tdo_crc_calc|lfsr [0]),
+	.datab(gnd),
+	.datac(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [1]),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|cdr~0_combout ),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~0 .lut_mask = 16'hAAF0;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X55_Y43_N25
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg~0_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X55_Y43_N28
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~0_combout ),
+	.datab(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~5_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irf_reg[1][9]~q ),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_crc_val_shift_reg [0]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6 .lut_mask = 16'hFE0E;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N4
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1 (
+	.dataa(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|tdo_internal~6_combout ),
+	.datab(gnd),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [10]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1 .lut_mask = 16'hAAF0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N0
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~9 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~9_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~10 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~9 .lut_mask = 16'h33CC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y42_N14
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal .lut_mask = 16'hC0C0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N2
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~11 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~10 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~11_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~12 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~11 .lut_mask = 16'h3C3F;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~11 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N4
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~14 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~12 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~14_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~15 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~14 .lut_mask = 16'hC30C;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~14 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y42_N10
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_dr_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20 .lut_mask = 16'hF4F0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N5
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~14_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N6
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~16 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[2]~15 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~16_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~17 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~16 .lut_mask = 16'h5A5F;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~16 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N7
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~16_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N8
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4]~18 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [4]),
+	.datac(gnd),
+	.datad(gnd),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[3]~17 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4]~18_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4]~18 .lut_mask = 16'hC3C3;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4]~18 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N9
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4]~18_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [4]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[4] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N30
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9 .lut_mask = 16'h0003;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N16
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [4]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9_combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13 .lut_mask = 16'hAAEA;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N1
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~9_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N3
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1]~11_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~13_combout ),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[0]~20_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N10
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6 .lut_mask = 16'h0700;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N12
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~7 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~7_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~7 .lut_mask = 16'h8000;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~7 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N28
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~14 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [4]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~14_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~14 .lut_mask = 16'h5F51;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~14 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N14
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~15 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~14_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~15_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~15 .lut_mask = 16'h0100;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~15 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N24
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~16 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~15_combout ),
+	.datac(\altera_internal_jtag~TDIUTAP ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~16_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~16 .lut_mask = 16'hCCEC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~16 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y42_N24
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_dr_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17 .lut_mask = 16'hFCF8;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N25
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~16_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[3] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N26
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~13 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~13_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~13 .lut_mask = 16'h8D88;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~13 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N20
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~18 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~13_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~18_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~18 .lut_mask = 16'h2A2A;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~18 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X76_Y42_N21
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~18_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[2] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N22
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~11 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~9_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [2]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~11_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~11 .lut_mask = 16'hCC0A;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~11 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y42_N18
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~10 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~6_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [0]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [2]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|word_counter [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~10_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~10 .lut_mask = 16'h8A0A;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~10 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y42_N4
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~12 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~11_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~10_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~12_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~12 .lut_mask = 16'hFF4C;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~12 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y42_N5
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~12_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y42_N30
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~8 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~7_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|clear_signal~combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~8_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~8 .lut_mask = 16'hCECC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~8 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y42_N31
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR~8_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0]~17_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y43_N20
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~3 (
+	.dataa(\altera_internal_jtag~TDIUTAP ),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~3 .lut_mask = 16'h00AA;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y43_N14
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datad(gnd),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0 .lut_mask = 16'hFCFC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y43_N21
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~3_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[3] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y43_N10
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~2 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [3]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~2_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~2 .lut_mask = 16'hFFCC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~2 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y43_N11
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~2_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[2] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y43_N8
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~1 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [2]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~1 .lut_mask = 16'h3300;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y43_N9
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~1_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y43_N4
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~0 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [1]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~0 .lut_mask = 16'hFFCC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y43_N5
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg~0_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N2
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [0]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg|WORD_SR [0]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_minor_ver_reg [0]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [2]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0 .lut_mask = 16'hFA44;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N6
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~2 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [10]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo_bypass_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1_combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~2_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~2 .lut_mask = 16'hE5E0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~2 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N0
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~3 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [10]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo_bypass_reg~q ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~1_combout ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~0_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~3_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~3 .lut_mask = 16'hE0E4;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~3 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N28
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~4 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [0]),
+	.datab(gnd),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~3_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~4_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~4 .lut_mask = 16'hFAF0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~4 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N6
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~7 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~7_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~8 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~7 .lut_mask = 16'h55AA;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~7 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N16
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~11 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~11_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~11 .lut_mask = 16'h0001;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~11 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N22
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~11_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18 .lut_mask = 16'h8F88;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N26
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_ir_scan_reg~q ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_dr_scan_reg~q ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9 .lut_mask = 16'hEAC0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X77_Y43_N7
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~7_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N8
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~10 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[0]~8 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~10_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~11 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~10 .lut_mask = 16'hC303;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~10 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X77_Y43_N9
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~10_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N10
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~12 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[1]~11 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~12_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~13 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~12 .lut_mask = 16'h5AAF;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~12 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X77_Y43_N11
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~12_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N12
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~14 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(vcc),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[2]~13 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~14_combout ),
+	.cout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~15 ));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~14 .lut_mask = 16'hA505;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~14 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X77_Y43_N13
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~14_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N14
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datac(gnd),
+	.datad(gnd),
+	.cin(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3]~15 ),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16 .lut_mask = 16'h3C3C;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16 .sum_lutc_input = "cin";
+// synopsys translate_on
+
+// Location: FF_X77_Y43_N15
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~18_combout ),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~9_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N2
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9 .lut_mask = 16'h8000;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N20
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10 (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10 .lut_mask = 16'h00F0;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N24
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4 .lut_mask = 16'h0111;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N16
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7 .lut_mask = 16'h0001;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N14
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\altera_internal_jtag~TDIUTAP ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder .lut_mask = 16'hFF00;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N24
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [0]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [1]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|virtual_dr_scan_reg~q ),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [2]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0 .lut_mask = 16'h4000;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N12
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(gnd),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [10]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1 .lut_mask = 16'h0A00;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N15
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [3]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N25
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[2] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [3]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [2]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[2] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[2] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N30
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [2]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder .lut_mask = 16'hFF00;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N31
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N5
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [1]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N18
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state [8]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|irsr_reg [10]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0 .lut_mask = 16'h0400;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N27
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [0]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg [0]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N2
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5 (
+	.dataa(gnd),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5 .lut_mask = 16'h0033;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N10
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6 .lut_mask = 16'h0002;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N26
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg [0]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8 .lut_mask = 16'hFFEC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N12
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4_combout ),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0 .lut_mask = 16'hDD88;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N0
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14 .lut_mask = 16'h1400;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X79_Y43_N21
+dffeas \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[1] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg [1]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg [1]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[1] .is_wysiwyg = "true";
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[1] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N6
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13 .lut_mask = 16'h00A2;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X79_Y43_N20
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [4]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14_combout ),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15 .lut_mask = 16'hFFEC;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X77_Y43_N4
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [2]),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [3]),
+	.datac(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [1]),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg [0]),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12 .lut_mask = 16'hEFFE;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_X76_Y43_N8
+cycloneive_lcell_comb \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1 (
+	.dataa(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10_combout ),
+	.datab(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15_combout ),
+	.datac(gnd),
+	.datad(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12_combout ),
+	.cin(gnd),
+	.combout(\auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1 .lut_mask = 16'h44EE;
+defparam \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1 .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: LCCOMB_inst|mixer_addr_reg[3]~14, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[3], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4]~16, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|mixer_addr_reg[4], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~9, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~10, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~4, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~7, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3]~feeder, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~0, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0]~1, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[3], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[2] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[2], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1]~feeder, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[1], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_shift_reg[0], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0]~0, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[0], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~5, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~6, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~8, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~0, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~14, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[1] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[1], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~13, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~15, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~12, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1]~1, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[2]~feeder , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[2]~feeder, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[2] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[2], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~19 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0]~19, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~16 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~16, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~17 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~17, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~18 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~18, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[2]~2 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[2]~2, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[3] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|identity_contrib_update_reg[3], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~20 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~20, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~21 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg~21, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[3]~3 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[3]~3, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_proc~0 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_proc~0, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|hub_info_reg_ena, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[3] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[3], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[2] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[2], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[1], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0] , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|design_hash_reg[0], LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~5 , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|tdo~5, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|tdo, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|tdo~_wirecell , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|tdo~_wirecell, LCDTSTTwo, 1
+instance = comp, \auto_hub|~GND , auto_hub|~GND, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|clr_reg~_wirecell , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|clr_reg~_wirecell, LCDTSTTwo, 1
+instance = comp, \auto_hub|jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state[0]~_wirecell , auto_hub|\jtag_hub_gen:sld_jtag_hub_inst|shadow_jsm|state[0]~_wirecell, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[0]~input , LCD_DATA[0]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[1]~input , LCD_DATA[1]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[2]~input , LCD_DATA[2]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[3]~input , LCD_DATA[3]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[4]~input , LCD_DATA[4]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[5]~input , LCD_DATA[5]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[6]~input , LCD_DATA[6]~input, LCDTSTTwo, 1
+instance = comp, \LCD_DATA[7]~input , LCD_DATA[7]~input, LCDTSTTwo, 1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Í>áû÷G(Õ|åèô%µµM¹cßLú˜tp”Ğ9Œ#çúàÒFŸ/ñÎãóºó¸@6X1y\²uRxIMW–{ŞL7ôºé&×C÷=çr/q¯÷\İÆLƒCû&™Ë=ßa_7‰Älîzíkàß§®ÍdóÿºÎ«û\Î}êõäh×ds<ikë¬©tÄÕ9ú¨ê0Õ¾Uğw¥ë¾ŠÕc@¢šìCúeÿí=×š'³Ÿ¾{~Øò‚§=Õn+îè>{¢+øÿÕĞ«Çj<@¼×½ÓÖÖUïÙ:tïs\I}ëÊ»ì¹ê£ï¸á=»õBìÚ÷İ³Åñ?_ó·×ñW„ G}Á0ùø0ñíÀ×päºÔ£“?p_áøiç[õHşøµÀãÕ‡G]ÃğnÒçìŠˆ³Ço nJ?d
+{Tø}İvİûo¯µãÍ¬¯q³äÃIñ_pƒÍZä*Ö©sÜFÂÀmÎk`Ö6çÔÁ*ìfFî?¯àxÎAyï	>˜*à`€‰0‰Æ*l”¨k®Ù—ÿöÛhI!é6MR<C—¶{æU´Õ‚Û€y£
+	Œ#¿çNäâxRx‹ÍÄÀõLnêP[J»zÊQ_J”·NšÛÜ(·`:‚}›ë6w¯ô­ód)ñ©õØÑ2BÏŸ æôÜÔ-¦xõÙü¡#o%ğ”#áEPìu–r<E‘¹NnÑå›/ıò1P³âÜ%o`œO0BQ× kñê¡Õænö—+6p&"B|0UúÑ2Â1ş6ÿ+nŞ£³—Kò9zæw¿÷®üÙõ­­“vŞ´ë²%0aÄw¶Ü´Ÿ,w¼5ã×é‘b-Rvf¢Ü>Bè/D9×Î‘û|ç7çäùÙgqO|ıæ¯ôògW?"¿Ä7Ú¼å¥úfÚú!ë»«£gë-¥œ»Iµ»$s¾°!aWmË0÷Zy³°Wš5ßq¤AÀZ¤ñÉ±ú¨okØ}ˆùäŠ+æ\øä°7.ñ¢¶ùŒ'Õ¨öı—êcèEàæ-×sÓç>ªë¹‹&÷W,šÜÂÖç{5í
+èù™ó÷{N¯AŞB› çÄ8=Âö«zŞç»è|]( çÇßOD0?³ ®çÏW»ôÜ·g¬çôºÏ×v¼éùıçõ|ë«yÿ_µ­EÊ€5tç 
+à=êäşÄDG£>"#2¨ÑG}õa÷Ó…ÌtYË„ƒˆ›é“Jt÷Z=\¢AµãßpĞ²Az@ÀìkÏsÏÑRæ'¤åSC>ÒnÄL|İË7A,šÜÈu&…/ÑLŸU4=xùÀ$Â© úf
+FÓ»Ş$Ñt¬dK¾ú:µ0	Ÿ÷ùÍ„j?¹ú}Û­5R4aq0HÏbv<>ßí×EÆÁA§ÏÂüÌ‚ÒëÛëóŸÿÚÊuÑqÀÅñÀÚ²ïà­=u‡ËÉ¹¾'kQô…|]rla[¡ÕÂx$ZLØµ2ÖMØÌ X[öÍ”0<åßÇ7cÔgÿQÒgOÉ0£3Yk¹ßŒÑ á¥ŠÔ ¡uÛ!¢«ûÂ¢>{’ÅØÂ¢šığfŒÈ—QÍ‘RÍØ÷—ï>ßgQa}{º0ïtu_X4@®[ÒgŸÎğÙ®5{NÆà§
+‹úìƒ7N÷™óBûàû,úÔ¦,w`¦šñDÙ£˜fo)Û%'OE~93şß›¥#Üâµe?ô£éêvú–©B»®ñVÆ¢î‹F#o¦
+ër9úÂ¢ƒú¬	qT³é>blÍ¢Â^9Á$ ŸÀŒQŸ¥İ³bf$ŠŠ{‡–ŞgYHZ½¾ä|VôfğÙ¥|†¿Xr>{|Æ 6u.I¹±è|ö[ı÷hG?uPcBëÙÑÕ}3FsãY>Ckœ2`İ9ŸE³ş=J&â;O ,ªÙõK2©>s&k-·ãàû,*¬èÍà!˜1:y>f‚hŒ†>¶NõN2ˆÖ–“|ö>½±™*Ì5ìÉZ}aQ3½ü¡’7ƒ'Ëc›1:Îş´ääyhÉ›Á¢;©_òfğÄ’7ƒ|åjìhŒê3JN1Z}—›Ï^W2ë?ò{úìF%sãóYpòüÇŞ8~€8x2ø*åª‹GˆFÓXõ'Ï`Ö?\ÏIÇÈIÂî©°ÿóÄW$ÔùfıAÃ yöÿ2çq/Àó}IYÎ¹GÃ|èøÚWÁšGÃgëZ w16/ã3èÅĞ{G4a-RôÜ=Ô†Åõˆ²±_ä=Ô>>üP©ô\c2éíÄD`]ÙóußõJ|ÿn[=à=„T›Óc‡*Æl¾›w½f´+àE‚á ˜ŸYP-_ç³Äh1]í†VD6ç×c8ÆâœÏú|3ÚôüJİû AjÏiÒZ¤é¹û½z…KWõœf|¾¯åÌ¼ç{NU‚ù™¥Ç‡©Í·òÙ¸6'g8{Ó«U=ïóÑ- ›;˜ŸYPX@RğÈ=×tñVà*›£!¹Ç·yFÏ'Œsz„MWÙŸ/£ç°lsl‰­}[ªºĞÆµÊù&£çØÜï5ZÄlîGÊ‚o6W8ßjÓâüÌ‚¢ø_h®ybh5ñ8TqUnqö^õb˜¯¡ãË°ùD#´¿(ê~p<İxÈè9¬#Ûœu‹Ã±hÁæ}¾ŒOçôÜÙ‘c¬çÎæ.§Ã—ÑsŞUÙæô„ºøUqĞKÇ³ƒo6gK¡ÿWmäôœ†mŞzl„º™ˆ1›ó9ùÅç»ì²æ’f=âp}(˜ŸYPÜâ0¥ç\hR¬[ˆÀõjUÏû|û	~6ßñ?Öæ§¡H}£^¾>/ã­bãÂ ˜Îa…}‹Ïz·–ÓêN¿A´ûûXS[ƒÂN“~äHâtù¾÷•ô½[½ß›§aàšN›æö?JèFåĞîó]riÓLã“½7“!ó3ŠTT› ÷pçá"‰àˆEZõùN¼Jˆ¦÷L¿—zNsô|‚™ÊeM×«XÏÑÊï=|6ç	§-ªî„üh!÷ôg mÎı@Ïû|	6ÇŞ¯×~çûÒ_·¾ü¶ÎyÚÛ×Ö—ök\hêëØ»Ş„5µ±RŞGVy}â~ú¨jl§ˆ$F'ÇX4¹ùÀç»ªİ°a\7şİ=zKJ4‰5µç°ÒzÆz®#İñ]ôÃœwëø¿¤oK#˜^PŞı³ùÑd´í©<èàË¥@Îk´OÃ>X[ñ…7QÿL‰é~#lé#Ğ|~ğ³
+İ×ºwlA04ùôùfº .6&HáL>$¸¡Ğåó>ß¼AwèêA÷!%Ü‘“›xTŒ:zŞç{õ«¹bnó3 õó3ê²êŸ\¢ÏWÔWİšr¡yHkº´Í™¦—L*ô
+àK~¯_Âö.ƒàãZÒ}`„É‡.úƒjiòáÃ[HØùk¼íg´ŞƒAa—jüğßŠr7ZOÕAa·”«^¾Fºp²"pŒ>Ÿ8 ŞªÕÇî~¾H2ÓÛZ[æúÄ™É­m§3½›ö=¶¸^Æ?b¢Q‡*Æ%ßué{(…÷ùf´+HHá¿Á½–Ô1Ğ€´2Ôó>× ôœôÌÏ,(6o¡÷2&è9=F=‰%Bxú|‰‰ğBiõù§ºb-R¬E¬àB3¸”¹¹öw¹Fº@ IGé#æÍ1f&RJŸo¦sÀŠĞ¼‡>æÛioübº™Œ6ÖĞÄ7SpÆ5ğß©é‚æ­EÊ€µèúäÚJ/Mô	Ö"åˆOXñ9X5è\š‡×ñØ?¿Ÿì9]DàÚj¨uS¸‡­±d½¶¨úf
+ú„¾‘šR}â„¸#BøÂ‚gˆbÂî©»™"ÂØÚ–Š“¬&§†fsa_•OÌxûÛÚĞsÇ¶Ú£ñ`Ã;™®­Z‹”kÑLGøŒ§ ©fë¢qÊ€µè³ënm=71÷¹FİQ2b¹ïÅúˆ!ì–A±ù>ßkhW@î;MÌÏ,(j¬Ü÷ÈR¹9“~í“` 0ñMà“Ô¬ÓcÕRÊ­Ğ×ñ}Ã›®Ÿ®Ò%wÏğ	µ)Öâ`èJV¹qr-­&ğÉ¥ìº>I'×/¹Fø7ù¤Ø8!¹Là“cÕ,MãÆB,wñyŸ/qœ|Q—Şìİékiõb1.(Öâà8ÑWë·~+#Å‹}Ñ8åÈòö}„	`Ye&—N|¾+¼trX<èıô¿T*ÜTüæ4?^ÿˆRf:8ãfÉdRUE“Û[YgĞ½ÚÛd>ó,C€($Ö:xïÒy×÷‹ş Ş,)açpKA'|aÁEÜ¿(E}VJ§®Nh4ƒÂn)aœ˜Nb­$wŒ¤“ãZ6Ì ±¬K:qàøÚlÒ¬ÏÀûÇÓQë+ÚèyTÆ8±öZwl«Fƒf:DãdÏ^õPœ¨ÌƒŞaà©4“ª;õUİ˜Ïú|¯ö²î™ñ¬‹jG¿ç;Ú§’ÿ<ÇHôêú:²s0Ÿ÷ù¾ĞF·‡¾_D 6èõc¿ràÀÑk8Øo‡²	|:ú·‰ã€}T5–İ´ŠóH†13¹iÕçÓ½\˜‰¥8ĞrÔùÿÈ&4qÜP
+wöù¸_èùCéš`~fA]Ï=(UÜ Z0¸B~hºW=°)¸Êæ„®ÏwY+–!\OÚ#=–zıÁŒMfëµáªœ§½}îDèwôøjğ2B“¶¬EÊ‘™P
+Í>_â^ü]Ôô»Æw0¹‡9ç­rpŸïÀ7t¡ ïÙÓø7ä`œ‚QRC“&­EÊ›Ós€ÆzÎ |¾„÷éµÃ‘{Nb°'ë9Fëóı~«67%u \¯9¦öÜÄëPÅ˜Íºdë9Zõù>y[Ğó[~ éx¬ç¼ªáR0=Çş±»(ÙÁwxÓñ¦çÍÿÃŠÛ\K›$›Ó µHˆÄ¹³ãœ)ŞslN¯}¾„o…a"å	*Œ-îÇ¶tİkˆÙ<ãÇ	¢…»Œ¸j„òYŸ/áGgóÔh1‰ñQÕX´ÉØ”ÈAT8GÏû|W¿Íé=[Õs4ëó%ØÜeE–Å¹ëUÌæn$û|çİzî²âÙÌÏ,(=Ÿ)ÊîYêF®ókg¶èò¼@¶öÍ«¢7R`àñXîº-¨'	Ëy€D£€5´#Ô…=AÃû˜Õÿ>nïVş’ü§$›œã¢iU´õùè3@´9˜ŸYPX¢ë>¾Æ’Ü­ÌÔÍ»¾Å çå\4 ¬¡¡¤Y±Ğ>GÑv›ñ£íŞRÔEÚª¬ìGšãÃ@À@´Áö5İ §då¦=k‘úÕ³n¢×¿+­ßZjœ|Xcäe¯zck‘2`-ú¡|Ğú<EÓÿxãÉ÷W«rWŸÏ8! š~¿YógJTÓs½±çxwŸL'ˆõXÏùÜ¡ãËè9C'e˜ø|T56XËº­0zë9«’>_FÏ'°9½Á ØÑåUw Ú¸µ®Ï—Ñó	l¾›UøÖl® q>ğÍï/'fMS‹>" ’5wsÏvcÆ€_‰Só3
+Ç£µ_çÙå¢¬­ø‰,¸¼$>R_B§Mk‘21FÃ†G$6¨p}¾„›rÔz·rÜïÚıC9S[¾™‚åşRƒàüŒ}Qu¨bÌLìº0¼0ùe•™ú|Ã	ÑtBx§ç Ú7ù*Púš‰XRz¾'üß5z¾BrRzn^¯)+B{¸Yh•Íû|ÇÎ[nlşaµ´§ÜÁõ|‚]—İdÍ×ìŸwh9-şïÒøç×xfNıöHKìkëÁÜs¶Q¿7ş â	d°,ºÑp:ĞçËp0ïÚš¤·ùAÏb¡éÒ…Ó ¾ßy‰ˆ ?ä!f44¹|ä³¡Yòª÷ù.ÛO¿ç=?"š¿¬Ğ¼gFhÒ¤µH°ıĞ®ï‘cÜš"Ôœ\-_§¾€µH9’èÓGD,DJÌ'|ÖçK|èvšæÓ/ÌŸƒM"ûà›)˜.ø"Y5w#¤/ÈtbPØ—”›Ş”˜›@£UŒùä}DüÃ24Âû|‰>ù‚|òîŒ›nºbLeĞ7Spœ*&Y*ûs]² S	ô… a¿¢(; ‚ƒò‹Rë=GËê–[7ÅŞÂQ¿Î7*‚È <AõÛğ{„
+OŸ/1 ¶u¹iÏï¹×ú¼˜¿¯J¸‚ô*w­šø$üt¥øsFø§ ¦nFÓùrğ§ï)mLƒ>ªs0#|]3%¾xcÍL÷_ÃLôºƒfb#ë"8IL»áÉÂ~L÷ÚE„ı‡òÁÏÿÃD.¸õWlwédß3Í×]+6RRœ_êÛşD[Î?Ë°Fƒ0IŠ¶œÉk×ÂŠ£ëhø“ÄÕZù¨j,·±¢$·)Mgo8nÍt¡€û“Ñöïú|GkóÆwÒ¤  âŠd ±Ô.&ŒùE„İDÑö?Ç6—Û\îŠå6—ÓvğÍæ¡0m—éóÇ5ÿşegœÍk›mcüfº%iS‘hÛ«h;güh»³úï"ˆãÑ†‰ş˜wXTp·:µòæ»Ù5JÌÊçkœÜûòBãäûd‹´×Y$šÈÊºa.“(Vlœ ì©¥–·ÇiP^güåí*Ü†èª{N¦€%¾™N
+¦€¿×çÛ)Úø„ÅS±Ğ.:ğÅ‘"šı¢íñãO,8Üf(›üH[ğÍt` ÚŞ©ÏıM£­èıM±'ã/‰¶“m/?ÚS´ ƒË]±hó#ş†oF¬FÛŠ¶ÙoÅÎßI™·ö-N^T-ê„= ÔäVT³Óm·f&-°¼½ö'ä˜q—·Z	N•‰mpäó®?WÄF¸Ë n¤gŒpzˆÔ‹}ËZ¤yJAÏéÀ1Ös§Ï—øOÒµÈ¸¥@„µH°±‚ËMÁÇT-=?£…×ØóEğÉÃ¬Ø´‹°b+Ê·ÉŒ/&dİµî#“­™.¬»îª~é/‹!Ê¶àsJ|ÒLP2,òÊÕ_º¶uB’°u¾²’–$¦±ÇQĞŒ%ÛMğ#=ÜSº™p±zïYƒ|çx8.øfsÆh;QŞ^Æ«*6o5H“|²­K‹øcäüºæ®5+vOù÷Š¶ß?·İAqK0^l&õ«,øfºX0m·S´]™ñÂ‡5†IR´Û/ÃECûğ££P´Í®'ıdp7EÄŞ.Á_>â9®ÙG¡"‹hó#)mv‰o6ok Úˆ~ÒÎïùüBæob³Ê§Wc=';ßl.z ç×Ö8ùµ’Y™•s‘¬|”mß¼0¬ÎÊ¥ˆf+šøšNÍşQCøÉãÏ7÷–g–Æ‡ÎùÀ˜ÙÅ8ú.£ÿ]rI^Ÿ`¸b„]GáV$Ú>¯h{ü	9î|S`-}yÿìR/»á&¸">A“p1aç”Ú0ı²¢í ñ÷0Yİ`4‡¬®¯h»ößz>ƒÅ^	CØ{„Å¢M1P&´¿.IŒ?“Èm¤–R~VVu'ä¯¥™Ûİ^2n’Ïßl.}`-MÏOå?%yóÉüBæ÷œ¯n¹Ñ½ªç»X½Ğóïæç3{îô"¬÷¹Êüˆ}o&t=çì*›÷ùÿßì”›~²ÔÓ<úx·)˜.Šİ,=]œ`£ç89Ç!„&ÇX ¸·ƒo¦‹ƒî,ÀƒJ.¼ŸXjÁ@´I¹kàäô|EÛoN79¹p±h#ÅcÜ|3bm0Ú~UùLÉmÅgK‰b«“b¯ªí—(ÚÿGÜ¶¢‹¤X´‘ÛüˆkøfÄÚ`´=XÑviÉh{á‘£Ä^,´‹í—½BÑvŞø¹ÍE››)cÑF4úKØŒhcøëúÌE É)Z²‰í2-=[Õó%¾™.¬~Hãäø)xƒŠªEB÷(	*ö¯ˆ#Kî˜”hVì	íùŠÇŒŸ¸õfü¸§«ÆÑßL
+ÆÑiGßVêµo|Rt
+(ºº)öùŠ¶	¾ùÃëG.sŒE›»cÛ1/ÍˆµÁh;EÑvNÉ;·'eü¢5„	å¾ÅG·~	í¢Ñ†wŠÌGoW´=}üÜæ¾gæ".mä5Œ»ƒo6wÅ@n;IÑö¥RßØ¦Ec"€fÅ¢7TŸ:~´ù›ØNŸyuÉm|î°‰ÊÙœg ÚH+ø05ë÷*6Nèñ_zÏÉ]Ü¸9b•ÍáK|é=?"q[RR_âşÅõˆËb6‡§Ï—¸‰ıFå¦Ÿ/¹‰ÍoKO‘ÅŠ»¯ÒÅÇÂz¬ëO<«`‰o¦‹éâO Ÿ~kÁØ¢“ã½H  ¨Ø{˜?¥h›à×®İR]V%J?½/øfM°EÛ+mŸ-¹­Xô6ïšÚR´ıÿã/…ˆ6·¡°ˆ¢y-(ù¼¶Ä7›³ä¶—mÌm¬½Š¥›¢·yßYJ³‡)Ú&ØÂrï*¹Ü›I]îÛÁ—m8ÿëJ#/_Yx³¸cpŒõÜ-wğÍt``œ<Rãä±%·CŠ}ï()Ï¿M/6(‹½¯L ^[v,¦™b¤Œ£ğÜÄ_ú4ù×GUcƒ~B¹±14–øf4<8Î“îRòaAP, ÎÕ„SLX±Éí‰Š¶gŒ¿ºaÛÍ%cYÛÍ3·á›kƒÑöDEÛ;Jn+]KVìiàyŠ¶ß?ÚØVd–hâ‹6òŞßL'k„Ç(Úî\òÔ(—n¾\RX1Í^ h›à‘‰ËmîÎ,mnGjß¬	¶¡hc-ı6fa¤Dì+û—ğM{ë¡ª±5@¡Mlz5rÏÙ
+^¹hê~ØÅÇæ/×+Æ)=GªyH?í£Ğ=r÷/ôObÑâî_|¾ÄMìË”›.úç‚÷ù*ù&v±›¥›ËƒÏr:VNw© ç®
+€%¾!389}Fğ«%o`×ùw³sMvRÆ\7f6áy>=*²Ê?ZÑvÓñ™øOXYÅ¢Í-¸9.øfº@0°ú˜¢­èó|’rŸ`òp1aO–{Š»-Ñ6ş›ØÇÈXnÑábÑæOİ¾™.DÛûmEßûÿEı¯’">!Ú¤\¹Ğ.vOy‚¢íYÓÎ¤Ì”±hcáìfÒßŒXŒ6Òÿ»¦y{„1€Ë=júÓ´al,ñÍæ<ãäJOÈø;›·¤IÓr±h:J}<±ä„o+ù]Œ¢?–Vl£ç$e€GŸXİ0ß0ÀXà³%¾™.Œ£·k^r£‡|Pl¾!µVìÎíEÛÙÓD›?—Ä¢.ñÍtR0m(Úş®Ôp3*şI- EW7Å¾erš¢m‚wcİ¶¢Ë]±hãs‡™wnçË!·.¹Oğ©’ké7—Ìm¬ÔŠŒ£ŸV´Mğ-“cÔò–[q®Š¶%¾™.ä6V‘‡S6TM|>ªºjC•1&ÚO£ç¼‰]èçD2şıËÍdÿ>-.šÜ |—]!" Z¸±ˆ`~fA±÷/ÈŸ?]27{ÄN [xÿl9Áóücå![æÄ ]—øfºP0.~Z×^^òy~Ñ;¯¢ÂŠ­»ÎW´MôìDéŒEŸ-ñÍtR0m§)Ú®(mE±V,´/P´Mğ€wc™Üˆ&rW,ÚÈmK|3] ˆ¶Stí—üšQÑ_.]ÊİSâ…"ï·+Ú&x{¤ÀLªoı7ŞÄUAwc½=Â;nşÇ±qâÏÿ¾™.Œ“#Åÿ•‹¾É 5ÊDÓQRşÊRÂ°ºI`‘q‚°b{/+¶‡ùŸg¿­øcòŒ¿r‰#x–øf:)Gü´ò+KŞL}ïŸ (Ú$Ó"ÂŞ/I³ñ£mE¢ˆ•†‹EY{‰o¦“‚h£Ó•ü•âËK@±[w¼Sl}LÑ6Ñ&¶?ÿÇ¢]—øfM°E[óÕ˜’èŠÀ/ÈbEÒ(¶OğEÛ“ÆÏmÇ)`ĞƒíF«¢m‰/-ÚHÿo`«P…×Òôx)şuÎ´¡×K|³9×@V¦ç¿¥ËszNÃ í¾¦´ ôˆ»y‚b6‡§Ï7›qÅ|>™=‘¾·‚éù¹ãobsÿâÛ3ÖsìİçÛ™N
+°ù‡7mbÿ¶®{ÄÇŞ¿œ'%Š¥‹?)õÚ÷ÃÏÿßƒ¸B˜åP, \Øîà›áşÁ¥Ğ /ùïAŠıÚ#¢è#“Ç•
+íÇ(ÚÿİØÏóI”üÚYNŠ7]‘ïR·;ÆÆ‰¿õ/|³óh¸MñgEåÓN÷/9N®™¿MÂ ‹L3…ÛsÆ_Ä‘•'ŞV|‚lt·’Ó2³ˆOp~ÑÍ·bš=C’&ø‡tÇÉ3ÌënäÄrŸ/ñÍt¡``áıh]{§’Û!EÿiÓ¹%_é*¶ÕûBEÛwí•ãtt·y#üTŞW8·=L~CÉ÷ş‹n‡ür©E ã½Øá¥Š²'?“²âä¾fÇ}	Ëòİ.îoÔñ­_"Ş8ñZŸóÿÑï—M<Nx¿ì°/¼5/ú{1„o±1TDØ*Ê6ş8!+c0÷2Glà6‚vğÍt±``ğ@µ?+ù îß4|ŠøÃ=µdV.¶IıEÛuÇÿF¶ÛpÛ¸CÑ¶ƒoÖÛP´*§œP2ÚŠÍ”oOŞ:~8Vf%AfË˜OÏ¾4Ÿ¨ã[Ÿç5,ÜŠR§vBşLIo™¿™-İËÎ6çÚğYŸ/qûjû„Í”(”0O±ÜÅğ*"ì+4Á?v$t]Šà¸*t—øfº@00y]O±õ×%ß-ö)ã˜‘S$ VîfIn}Õø‰Ò=2!•E›[&-øfºH0m[2ÓçJş&ösJî`{¡ƒh+¶T:X“ÚomÇ*Zˆt!šb¹ÍEã¾™.DÛ¿ëš/—Œ¶khº‘wŠ}½ûPEÛïı»ßûwy+m~DyßŒXŒ6'
+G^º7ˆÿ‰–¯ïSÛ?ZòWI—"Óò	rJÎ»H¸°†Fš²……?Z®èºŒêówŞü*r×Ùñ‡¦ÿªëş{ÉÇXô³ˆOÄX)&¬Xîº¹ÔzÂø3%ë2"iÛÀ­™.Ì”Ÿ‘SÎ½¤Ğm Pô1V± @³³õâL‘Ğ>ZÑ¶gš-,¢™}VÍ”K|3bm0Ú>¦v½ä¡|BC§ˆO0XÑÜVì.à¶Rë·ÆÏml˜²æ"·qŒE†]â›éÁ@n{¿®=®ä†é[KŞs <0“{ŠŒ#Ömn-‘:ºÕÑ§hq9kÕZÚİ%p\ğÍˆµÁhcô§ş{D¯ª6Úî£Ğc‚^¸ŞpŒ_»ßlŞÖÀ8¡ç8Ù·ùüBæobsÿB¯ÖY½$nbÓóŸ¼4¯çèd±¹»„-fsŒÖç›Í¸b-o¿ßR¿@˜kóyãÑÓlpŒõœéóí÷îOÎˆßŸ\(­¤äı‰ºZn/ºb|˜Ş|*’U\åˆš,«®3Â·fÄè`V}“:ıoï*x²¥ÿp[Ä'$¢¯ÚG§*Ú^>şŠ‘»á¥•`C!ßaØ%¾Ùœg`&|®ıTÉ}cúY,Ú~CÖ)&¬˜fT´>ş;•gĞYr±RÙ?ÚvğÍæ\ÑÆêåøÃò× 6o=¶zÙÍº+1+¿Rã¤èÿ"ù·’k€bï½¤p;wü¬Ì}¼‹}ôaLôsşXZğÍæœãä¥â¿kÉï‚½µ.úZÄ?–GS´ıáøÑæşŸ2Æ¢ÏÜªtÁ7ÓIÁ@´½PÑö¼’»FEo9Šmä0Æ_ê«ÄV´=ı.©ãˆ»Fä6æ~t!­Š¶%¾™.DÛ3Ôö‰%wÄe¡r‹À+¶‹­8‹İL=A6|æøÿ»—=J¢Œh[µâ$Ÿ-ñÍtR0m8Ÿ—ÕüqÂe; §OkØEV·×¿c<ÍæÂz~–®ù`©ÿ~ÇğÖz§«Xèşœ2Kaç’ ÎıÒmTSl˜ò›×„¥ƒX¢Äñ}¾Ä×"§k¿^òuÕg”ò	ß=kü¥ÒQrÆÒ¤äÔñşXâ›Í%éäüß6¢Jå3çWí¤ë¥zä}Ä¢ÉõÜçK|pp…–ø—–Œ&ô)2Âbø¥ˆ°o—×'ø`Ç¨ÿ8×Ír± À¨K|3](İÏ) N.¹Ê¿J“_Ÿ E_²ÑCï2Ñ¶WÑö¢ñ%«|Œæ0m¤ÇÃ±á›é¤` Ú>¥hû‡’ûÊE·°d‹r¡ı`™½È8º¢í6ãï+»wúÈ[`,Úüİ‹ßL¢íCŠ¶/\\ğ™:ñ	Ãc&K–	í;(ÚÎ?·qO‰Ñ˜I‰¨X´¹™vßL	¢ÅÆrï=î"[
+ÿ~qUÏ—øfºXĞsfÊ‘{î~æ`h„ó¹?ÊÑğÕŞ;gÆßÁØ¯¸|lÉ÷öŸ^êİÖj\¯BÖ‹¦UïáfÀ½AÅ'ØÛA,š\‚ñùoPß+Ÿ| dÖ-úà Ø-ø³RïQŞYÑöG¦G›)."º<ôşs¼»7á‹6wãJd.øfªr×…Š¶“K¾·¯×bÊÌ„ PlgC´ˆ°W¸LğOşˆ6ÿŞ$mv‰o¦‹Ñö&EÛüyÁåWJ@ÑÜöKrO‘h;UÑ6ÁıKçı¯Q´}¬äİò“Kù„!øÄ’Â>Vj±n{ìøÏÄÜ8í¸/™§¬%ßíòş…à¯8m»Bş&6÷/¸Û!½ìçüŒoÃ7›sdezıî T`%2Òö;keV#nuë¹[µø|‰Ûïß®ö?¦ßıòá¶~"b®vC/Ù:I?Ô¤¢µ¨Ãb•O0!VØ'œÃÓ¨v@í2-”ÏÏ¸µæjk‘2¦íp¦Ù´9ª)u·×13áTX9¦ğ}‚ _‡¹N0?³ ô|œÖÂ©æbk‘r¤çş`mUÏ]¯ße—Qš÷üˆøOäÿ§”zOÆóš´)Ö"Vpöß³p°3•Mºf'œÔEX‹”kÑ¦Ÿ¥£ÚÄñš'ìŠ‹	^Ûş9‹tBº òVEÛßLáWm–ñ0‡&­EÊ€µø- 7’{şgF¢t&ãDÒÍ½õu©$ n>ÙÁ7£áÁ Ài/P»©‰ÒÄïPÅXÏ	W¶ô*Ös?lßëŞ@ÃóŸzO],˜ŸYP—N¶ufä3';{Rê9,ø¾>ïa3è¶›‡zştıûÙ—ğÍ“4ĞeİÇé?`¤ÎáôFA‘ĞäÅ%˜+f&œÚçÛßÀLgÌ­´ài?B­—Ê´§gä&k¯í8ï›)89=dš¥Î’y "%f&xú|µvÂLÇŸ>·SÓPGhÕŞ9şS·–¥W«zNìó¹ÏwÉ¥:) ç{oì9aEÏéøÈ#ØíX»'C6÷ùN¼Š~Ï{şƒƒ=w6Ÿ©0AÏ±å<>ïĞ‚"ŞÙÚçË°9¯ŒÜsâÜÙ‘Ş­²yŸ/ÁæDÊMuİÍLë¹Ø‰Ì¨V$2lËPÏû|Wx#ô°ğ¥ç—ë]Ş&”T¡#İm2ò˜g‰z¶Êæ}¾gê:€ú˜¦o]šÒŒNæ×°=nÏ‰zc=ç³>ßk¼ç|§ÅŸóawm†İszL”€Äq¬çÇç{Ö`ó³ ‚ù™¥×p=)1Ÿ»MˆÄ¹³ùœiõÅæ>_âs<zcs'ÂÚB¤ç.Jû*›ï¢ç<L‰s×S®Ş5)=7ºÚ‚µÇ«·ç_d$ä¿×›ÑóÔ9tóz:Bé¹³µ;^}ÑòJmTœ²Æ?Ds=—2˜(ãe_SƒvªˆJÒAêN•ÑÀÚêIÂğI1aÅ4;B’Òb®f»Ò ß«÷‘Ş¬]ïİ
+KòÙótSı¡Ã4Ùx¹kÕ»64
+:ˆŒ£_Ğç¬€¡]Ÿ/án‚|·Ìï9âv@ûÌ†sÖ"e Òsæhô,6Gûó³ãkÑÍºè†ÀµÕ]ÏŸ¯vs{nm‘³2îÛ²½bq@xú|íR´éùÙó‡zşÊ]wYc#Ã˜¨c‰•¹ëúêÇ:ß‹¥ñ>
+»¿ÆÁË÷=iÜ<¤ñ‰{%”}p>éß“%ƒgjîÔwÿ.šém-S‘ÜôEtÎ¿Ak‘rÄ'Çè#7z3Ø¿œƒ§Ï—è“[kœ¼„·LİôÉ¡b’¼ìiW—í SmPØ{e±;f¾">9Jõmİğ{d—>¹@ãëc¥¾=ÊïÑåü,jš§«_÷}|öù}ºÇ>\WäÊ@_Xpş ÏNL”ğQÕX œ H€$ÉU¦ç>_â"FµmaÊ´kâóQÕXÏyÉƒ¾«Ò‰ÓÌç{5í
+ØC9SÌÏ,(½şWïÃ×ø¹=[´2/P÷¼e€aŒi7IÆ@`jèŠuáÊ€µèk'’~ùÈta4_Xpœ¼\«øçëÿ'¦jf­$wt‚©ûÂFñÓ0èÀT }aA3Nå³ f?+ŸMñMÆ ÏşH’P?Õgb]ßŒÊfHXC;Bİ÷YP3|–cFš§aĞ© úÂ‚ò ùìK³?•Z—¼à8+¶é€Ïr¶Säšõ}v_ùìEÚYO}!~€£ñòÙ/gü.‚¬EÊ€µèF#Sø,¨YQŸıdfn”!³qt`mÁ7c0¿Y>;OKğÔ ¡]˜
+à °â>CàØš£ñGñÙ›{êï3£ñòÙA¿aC£Ö"eÀZô}ÔÉK^ğˆ}Ñ8eÀZô…£±èä.òÙ´$N´ˆ¯YĞgï–¿¤²©Âd-R¬E_XÔg9SÖĞP÷…5Ãg974OÃ Sô…5»“|v1¦š‘Fcàjö·òÙ¾ŒÜh­$wt‚©ûÂ‚¡Ã„¹šÑ¸¦Ê 0|ÆüTa aĞ© úÂ‚>»£|öáR¹ñıòÙ1¹ khG¨ûšE}6Å$(ŸñFGŸİV>û\†0ÌßŒÁqöùìh]]D3z³Î¿ª³zÔ5+šo%ŸıÜ_¯úì“òÙdü¬‡É@¦è›1˜A`ø5å«Ô ¡QÀÚê¾° føìYYŸæit`*€¾° fß-Ÿ½¤”Ï>#Ÿ•q3(Ö×ÕeÅäAmâ¬¡¡î›1ê3¹-9@h†A¦èúìæòÙƒÖˆFµ½¾° fÿ"ŸıÂ‹Të‰¢îN10üøšÑ¸¦Ê 0Æ™HŸ^r>»2s>Ã\€5´#ÔÍCNèÓ(`íõAaø,çÆ‚æit`*€¾°à8»‘|vn©Üøùì7JÎgS˜18¨ñYN"–k’|v=ùìSk}'Œ£k~€…ız>÷»ì7…ÑÅÈèé*(Ÿöº…9:cŠÁ=ñÀÚò Ï“Ïö¯1¨ '“º/,8yÂPlkŸ!0u‘*ÖõÇÙ¶ÆYN€Ò"0lFù,G3k¹£“Kİ}rr#ÖĞP6•Ï‚óÙ×5ÎxÏ!5@Ğ ¾fÁĞ?X>»2#]Y+É`ê¾°ÍğY±Aıïòê§ú³ÄkËƒfü6ùìñËoÚ¥qĞ© 
+ƒ!gœ‰}}aŒ3^¢É5£!µÓÔì‹òÙŸ®1Å¨í%ğ…ÇÙMä³?»<}Y`­wt©ûÂ¢ãì÷ÖĞl-aS­A‚¹ñóòÙ›Ö}g>NËA3~§|v¯Œ×°;JV&êŠşäu#ÖĞP÷…Ÿiõ=ú8úìRùìufDƒx`myP³#å³»eˆkØ[9K$ê³3:!îõÙ‰8è³‹å³Õ½ÔDÜ×ÈiÆÑ÷YĞŒß#ŸıŸŒĞ§Qk‘2`-úÂ‚šÁÀû–¹š!ÀSÅÔŒqVìYÌGå³›éÍã\Í|­\yP3î©ÿ)ÃŒ4l-R¬E_XÔg0åj† L_XÔgR.ÙŒ aĞ© úÂ‚š}P>;ZŒ©š‰u‡ ¿îfÛK­‹343ZXC;Bİ4#ÊÃÉf¤QÀÚê¾° fŒ³b>{Ÿ|ö’Œ)]ĞÂk+ƒšı€Ôúµ5&O' 9”ÁAa0ä˜‘FkhG¨ûÂ‚‚Ï`Ê}w`*€¾°à8ûkùìÅ>£ÑøÂ‚šıˆl˜ó¯²)Ö¢/,¨‡e|7Uì‹Æ)Ö¢/,:Î®Ê¸‹ñ§X‹ƒÂş‚q¶Æ]Búàúìî™ãÌZ	îèR÷…ÍÃ¶°Hè3Î€±…5{«|öËãLFh‚£kƒf<E>{fFnt»c+§é€/, 0]ëç,RÑÄZ¤X‹¾fÁr|f>£áøÂ‚f¼|–ó;ò²)Ö¢/,¨`jèÓ0`íu_XP3Æ™‚1YÍ[‹”kÑÔìµòÙ:ƒ!¬-øÂ‚ƒútùl[Ì©f¤]k‘2`-
+ƒAÊ%£aÀÚê¾°¨ÏğÛØš}öÇRë)é
+]ĞÂk+¾fAŸ}X[_ÍxØ5ì­œ¦¾° ÏS®º<C#t`*€¾° aĞ‹›É>£QÀÚê¾° fE5Ù#çaºX‹”kÑ×, 0€©¡OÃ€5´#Ô}aQ3N±¯Ì˜ èb-R¬E_³¨Ÿšñ>ÖĞP÷…EÍø¤Œ1ÍÓ0èÀT }aQ3¡™ÚL5cÎ|†€5´#Ô}Í¢fÔsñäĞ§yk‘2`-úÂ¢f„©È8CPÎ~#Z ÖĞP÷5úŒÜXÔŒÅÕù¥Š±}5ãé*üØÆØšÇfÜ@XÔŒüìF

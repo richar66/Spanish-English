@@ -1,0 +1,43 @@
+tac";
+// synopsys translate_on
+
+// Location: FF_X54_Y43_N29
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed[5] (
+	.clk(\clk~inputclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed[5]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(vcc),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed [5]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed[5] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed[5] .power_up = "low";
+// synopsys translate_on
+
+// Location: FF_X52_Y43_N13
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|cells[0][13] (
+	.clk(\clk~inputclkctrl_outclk ),
+	.d(gnd),
+	.asdata(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|buffer_write_address_delayed [5]),
+	.clrn(vcc),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(vcc),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|wdecoder|auto_generated|eq_node[0]~1_combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|cells[0][13]~q ),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|cells[0][13] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|cells[0][13] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X54_Y43_N22
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|stp_non_zero_ram_gen:attribute

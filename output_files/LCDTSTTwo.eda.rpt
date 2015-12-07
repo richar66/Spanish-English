@@ -1,0 +1,185 @@
+translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(0),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[0]~output_o\);
+
+-- Location: IOOBUF_X0_Y44_N9
+\LCD_DATA[1]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(1),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[1]~output_o\);
+
+-- Location: IOOBUF_X0_Y44_N2
+\LCD_DATA[2]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(2),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[2]~output_o\);
+
+-- Location: IOOBUF_X0_Y49_N9
+\LCD_DATA[3]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(3),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[3]~output_o\);
+
+-- Location: IOOBUF_X0_Y54_N9
+\LCD_DATA[4]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(4),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[4]~output_o\);
+
+-- Location: IOOBUF_X0_Y55_N23
+\LCD_DATA[5]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(5),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[5]~output_o\);
+
+-- Location: IOOBUF_X0_Y51_N16
+\LCD_DATA[6]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(6),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[6]~output_o\);
+
+-- Location: IOOBUF_X0_Y47_N2
+\LCD_DATA[7]~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_DATA\(7),
+	oe => VCC,
+	devoe => ww_devoe,
+	o => \LCD_DATA[7]~output_o\);
+
+-- Location: IOOBUF_X69_Y73_N16
+\redOut~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \redOut~reg0_q\,
+	devoe => ww_devoe,
+	o => \redOut~output_o\);
+
+-- Location: IOOBUF_X74_Y73_N23
+\greenOut~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \greenOut~reg0_q\,
+	devoe => ww_devoe,
+	o => \greenOut~output_o\);
+
+-- Location: IOOBUF_X0_Y58_N16
+\LCD_ON~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => VCC,
+	devoe => ww_devoe,
+	o => \LCD_ON~output_o\);
+
+-- Location: IOOBUF_X0_Y44_N23
+\LCD_RW~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => GND,
+	devoe => ww_devoe,
+	o => \LCD_RW~output_o\);
+
+-- Location: IOOBUF_X0_Y52_N2
+\LCD_EN~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|u0|LCD_EN~q\,
+	devoe => ww_devoe,
+	o => \LCD_EN~output_o\);
+
+-- Location: IOOBUF_X0_Y44_N16
+\LCD_RS~output\ : cycloneive_io_obuf
+-- pragma translate_off
+GENERIC MAP (
+	bus_hold => "false",
+	open_drain_output => "false")
+-- pragma translate_on
+PORT MAP (
+	i => \test|u1|mLCD_RS~q\,
+	devoe => ww_devoe,
+	o => \LCD_RS~output_o\);
+
+-- Location: IOIBUF_X0_Y36_N15
+\clk~input\ : cycloneive_io_ibuf
+-- pragma translate_off
+GENERIC MAP ""}
+{ "Info" "ISGN_START_ELABORATION_HIERARCHY" "LCD_Controller lcdlab1:test\|LCD_TEST:u1\|LCD_Controller:u0 " "Elaborating entity \"LCD_Controller\" for hierarchy \"lcdlab1:test\|LCD_TEST:u1\|LCD_Controller:u0\"" {  } { { "../LCD TEST/lcd_test.v" "u0" { Text "D:/LCD TEST/lcd_test.v" 1450 0 0 } }  } 0 12128 "Elaborating entity \"%1!s!\" for hierarchy \"%2!s!\"" 0 0 "Quartus II" 0 -1 1449448989799 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/altsyncram_cu14.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/altsyncram_cu14.tdf" { { "Info" "ISGN_ENTITY_NAME" "1 altsyncram_cu14 " "Found entity 1: altsyncram_cu14" {  } { { "db/altsyncram_cu14.tdf" "" { Text "D:/LCD TEST2/db/altsyncram_cu14.tdf" 28 1 0 } }  } 0 12023 "Found entity %1!d!: %2!s!" 0 0 "Quartus II" 0 -1 1449448992343 ""}  } {  } 0 12021 "Found %2!llu! design units, including %3!llu! entities, in source file %1!s!" 0 0 "Quartus II" 0 -1 1449448992343 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/mux_ssc.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/mux_ssc.tdf" { { "Info" "ISGN_ENTITY_NAME" "1 mux_ssc " "Found entity 1: mux_ssc" {  } { { "db/mux_ssc.tdf" "" { Text "D:/LCD TEST2/db/mux_ssc.tdf" 23 1 0 } }  } 0 12023 "Found entity %1!d!: %2!s!" 0 0 "Quartus II" 0 -1 1449448992762 ""}  } {  } 0 12021 "Found %2!llu! design units, including %3!llu! entities, in source file %1!s!" 0 0 "Quartus II" 0 -1 1449448992762 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/decode_dvf.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/decode_dvf.tdf" { { "Info" "ISGN_ENTITY_NAME" "1 decode_dvf " "Found entity 1: decode_dvf" {  } { { "db/decode_dvf.tdf" "" { Text "D:/LCD TEST2/db/decode_dvf.tdf" 23 1 0 } }  } 0 12023 "Found entity %1!d!: %2!s!" 0 0 "Quartus II" 0 -1 1449448992873 ""}  } {  } 0 12021 "Found %2!llu! design units, including %3!llu! entities, in source file %1!s!" 0 0 "Quartus II" 0 -1 1449448992873 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/cntr_ggi.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/cntr_ggi.tdf" { { "Info" "ISGN_ENTITY_NAME" "1 cntr_ggi " "Found entity 1: cntr_ggi" {  } { { "db/cntr_ggi.tdf" "" { Text "D:/LCD TEST2/db/cntr_ggi.tdf" 28 1 0 } }  } 0 12023 "Found entity %1!d!: %2!s!" 0 0 "Quartus II" 0 -1 1449448993128 ""}  } {  } 0 12021 "Found %2!llu! design units, including %3!llu! entities, in source file %1!s!" 0 0 "Quartus II" 0 -1 1449448993128 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/cmpr_sgc.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/cmpr_sgc.tdf" { { "Info" "ISGN_ENTITY_NAME" "1 cmpr_sgc " "Found entity 1: cmpr_sgc" {  } { { "db/cmpr_sgc.tdf" "" { Text "D:/LCD TEST2/db/cmpr_sgc.tdf" 23 1 0 } }  } 0 12023 "Found entity %1!d!: %2!s!" 0 0 "Quartus II" 0 -1 1449448993206 ""}  } {  } 0 12021 "Found %2!llu! design units, including %3!llu! entities, in source file %1!s!" 0 0 "Quartus II" 0 -1 1449448993206 ""}
+{ "Info" "ISGN_NUM_OF_DESIGN_UNITS_AND_ENTITIES" "db/cntr_i6j.tdf 1 1 " "Found 1 design units, including 1 entities, in source file db/cntr_i6j.tdf" { { "Info" "ISG

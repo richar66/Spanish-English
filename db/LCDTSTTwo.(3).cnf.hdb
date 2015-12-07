@@ -1,0 +1,37 @@
+basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [754]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[754] .is_wysiwyg = "true";
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[754] .power_up = "low";
+// synopsys translate_on
+
+// Location: LCCOMB_X75_Y34_N30
+cycloneive_lcell_comb \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753]~feeder (
+	.dataa(gnd),
+	.datab(gnd),
+	.datac(gnd),
+	.datad(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [754]),
+	.cin(gnd),
+	.combout(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753]~feeder_combout ),
+	.cout());
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753]~feeder .lut_mask = 16'hFF00;
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753]~feeder .sum_lutc_input = "datac";
+// synopsys translate_on
+
+// Location: FF_X75_Y34_N31
+dffeas \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753] (
+	.clk(\altera_internal_jtag~TCKUTAPclkctrl_outclk ),
+	.d(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[753]~feeder_combout ),
+	.asdata(vcc),
+	.clrn(!\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|reset_all~clkctrl_outclk ),
+	.aload(gnd),
+	.sclr(gnd),
+	.sload(gnd),
+	.ena(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|trigger_setup_ena~combout ),
+	.devclrn(devclrn),
+	.devpor(devpor),
+	.q(\auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs [753]),
+	.prn(vcc));
+// synopsys translate_off
+defparam \auto_signaltap_0|sld_signaltap_body|sld_signaltap_body|ela_control|basic_multi_level_mbpm_trigger_gen:multi_level_mbpm|trigger_condition_deserialize|dffs[7

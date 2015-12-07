@@ -1,0 +1,4 @@
+ 1449448699576 ""}
+{ "Warning" "WVRFX_L3_VERI_XZ_EXTEND_SIGNIFICANT" "lcd_test.v(775) " "Verilog HDL warning at lcd_test.v(775): extended using \"x\" or \"z\"" {  } { { "../LCD TEST/lcd_test.v" "" { Text "D:/LCD TEST/lcd_test.v" 775 0 0 } }  } 0 10273 "Verilog HDL warning at %1!s!: extended using \"x\" or \"z\"" 1 0 "Quartus II" 0 -1 1449448699576 ""}
+{ "Warning" "WVRFX_L3_VERI_XZ_EXTEND_SIGNIFICANT" "lcd_test.v(823) " "Verilog HDL warning at lcd_test.v(823): extended using \"x\" or \"z\"" {  } { { "../LCD TEST/lcd_test.v" "" { Text "D:/LCD TEST/lcd_test.v" 823 0 0 } }  } 0 10273 "Verilog HDL warning at %1!s!: extended using \"x\" or \"z\"" 1 0 "Quartus II" 0 -1 1449448699577 ""}
+{ "Warning" "WVRFX_L3_VERI_XZ_EXTEND_SIGNIFICANT" "lcd_test.v(869) " "Verilog HDL warning at lcd_test.v(869): extended using \"x\" or \"z\"" {  } { { "../LCD TEST/lcd_test.v" "" { Text "D:/LCD TEST/lcd_test.v" 869 0 0 } }  }
